@@ -1,4 +1,4 @@
-# FactRead
+# FactRead - V1.2.2
 
 FactRead is an offline facts reading app designed for people who enjoy learning something interesting in a simple, calm, book-like experience.
 
