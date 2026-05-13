@@ -1,9 +1,9 @@
 {
   "images" : [
     {
-      "filename" : "IMG_6617.PNG",
-      "idiom" : "universal",
-      "platform" : "ios",
+      "filename" : "Icon-iOS-Default-1024x1024@1x.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
       "size" : "1024x1024"
     },
     {
@@ -13,8 +13,9 @@
           "value" : "dark"
         }
       ],
-      "idiom" : "universal",
-      "platform" : "ios",
+      "filename" : "Icon-iOS-Dark-1024x1024@1x.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
       "size" : "1024x1024"
     },
     {
@@ -24,8 +25,9 @@
           "value" : "tinted"
         }
       ],
-      "idiom" : "universal",
-      "platform" : "ios",
+      "filename" : "Icon-iOS-TintedLight-1024x1024@1x.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
       "size" : "1024x1024"
     }
   ],
