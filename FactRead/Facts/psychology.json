@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Psychology",
+      "title": "Memory Is Built in Layers",
+      "body": "Memory includes the processes of encoding, storing, and retrieving information. Short-term and long-term memory serve different roles. Practice and meaning often improve recall.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Attention Filters the Busy World",
+      "body": "Attention helps the mind select what to focus on. People cannot fully process every signal around them at once. Selective attention boosts important information.\n\nDistraction can reduce performance on difficult tasks. Attention shifts depending on goals, emotion, and environment.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Habits Run on Repetition",
+      "body": "Habits are behaviors repeated often enough to become automatic. They can save mental effort for routine tasks. Cues in the environment often trigger habit loops.\n\nRewards help reinforce repeated behavior. Changing habits usually works better when cues and routines are redesigned together.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Emotions Guide Decisions",
+      "body": "Emotions are coordinated mental and bodily responses to important events. They can influence attention, memory, and action. Fear, joy, anger, and sadness each prepare the body differently.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Motivation Pushes Action Forward",
+      "body": "Motivation is the force that starts, directs, and sustains behavior. People act for rewards, meaning, curiosity, survival, and social needs. Internal motivation often lasts longer than pressure from outside.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Learning Through Reward and Practice",
+      "body": "Learning changes behavior or knowledge through experience. Practice, feedback, and repetition strengthen learning. Rewards can encourage repeated actions. Understanding improves when new ideas connect to old knowledge.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "The Mind Sees Patterns Quickly",
+      "body": "Perception is the mind’s interpretation of sensory information. The brain combines signals with expectations and past experience. People often notice patterns even from limited information.\n\nPerception helps the world feel stable and meaningful. Illusions reveal that perception is an active construction.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Stress Changes Mind and Body",
+      "body": "Stress is the body’s response to demands or threats. Short-term stress can sharpen attention and reaction. Long-lasting stress may affect sleep, mood, and health.\n\nHormones and the nervous system help create the stress response. Coping skills can reduce harmful effects.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Sleep and Mental Performance",
+      "body": "Sleep strongly affects attention, memory, mood, and judgment. A rested brain learns and regulates emotions better. Poor sleep can increase mistakes and irritability.\n\nDreaming is one part of the broader sleep cycle. Psychology studies both behavior and biology during sleep.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Personality Traits Shape Tendencies",
+      "body": "Personality refers to relatively stable patterns in thinking, feeling, and behaving. Traits describe broad tendencies rather than fixed destiny. People can be similar in one trait and different in another.\n\nPersonality interacts with life experience and culture. It helps explain why people respond differently to the same event.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "The Power of First Impressions",
+      "body": "People often form first impressions quickly. Appearance, tone, posture, and context all matter. These early judgments can shape later interactions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Bias Can Bend Judgment",
+      "body": "A bias is a systematic tendency in thinking or judgment. Bias can help the mind make quick decisions. It can also lead to errors or unfair conclusions.\n\nPsychology studies many biases in memory, probability, and social judgment. Recognizing bias is the first step toward reducing it.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Language Shapes Thought in Subtle Ways",
+      "body": "Language allows people to label ideas and share them efficiently. Words help organize memory and attention. Different languages highlight different distinctions.\n\nThought can happen without speech, but language often guides it. Psychology studies this relationship carefully rather than treating it as all-or-nothing.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Body Language Speaks Quietly",
+      "body": "Body language includes posture, facial expression, gesture, and movement. It can support, soften, or contradict spoken words. People often read emotion from faces very quickly.\n\nCultural differences influence interpretation. Nonverbal signals matter strongly in communication.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "The Psychology of Friendship",
+      "body": "Friendship provides belonging, support, and shared experience. Trust and repeated interaction help friendships grow. Good friendships often improve mood and resilience. They also shape habits, identity, and decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Decision-Making Under Uncertainty",
+      "body": "People often choose without complete information. The mind uses both careful reasoning and fast shortcuts. Time pressure can change which strategy dominates.\n\nEmotions and past experience influence choices. Better decisions often come from slowing down and comparing options.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Curiosity Fuels Exploration",
+      "body": "Curiosity is the desire to seek new information. It supports learning, creativity, and discovery. Questions can be driven by gaps in knowledge.\n\nModerate uncertainty often increases curiosity. A curious mind tends to explore rather than simply accept.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "The Placebo Effect of Expectation",
+      "body": "The placebo effect happens when expectation contributes to a real change in experience or symptoms. It does not mean a person is pretending. Belief, context, and treatment rituals can influence the brain and body.\n\nResearchers use placebos to test whether treatments truly work. The effect shows how mind and body interact.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Group Behavior Changes Individuals",
+      "body": "People often behave differently in groups than alone. Groups can improve cooperation and learning. They can also increase pressure to conform.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Confidence Is Not the Same as Accuracy",
+      "body": "Confidence reflects how sure a person feels. Accuracy reflects whether the judgment is actually correct. The two can match, but they do not always. Overconfidence can lead to mistakes.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Creativity Combines Old and New",
+      "body": "Creativity involves producing ideas that are both new and useful. It often comes from recombining existing knowledge. Rest, play, and practice can support creative thinking. Creativity is not limited to art alone.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Fear Protects but Can Mislead",
+      "body": "Fear is an emotion that prepares the body for danger. It can sharpen attention and speed action. Sometimes fear is triggered even when the threat is not severe. Learning and memory shape what people fear.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Self-Control and Delayed Reward",
+      "body": "Self-control is the ability to guide behavior toward longer-term goals. It often involves resisting immediate temptation. Planning and environment design can support self-control.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Social Comparison and Self-Image",
+      "body": "People often judge themselves partly by comparing with others. Comparison can inspire improvement or create dissatisfaction. Modern media can increase opportunities for comparison.\n\nHealthy self-image usually depends on more than rank alone. Psychology studies how comparison affects mood and behavior.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Resilience After Difficulty",
+      "body": "Resilience is the ability to recover and adapt after setbacks. It does not mean never feeling stress or sadness. Supportive relationships often strengthen resilience.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Habits Follow Cues and Rewards",
+      "body": "Many habits form through a loop: cue, routine, reward. Repetition strengthens the association until the behavior becomes automatic in similar contexts. Changing habits is easier when you redesign cues and rewards, not just rely on motivation alone.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Sleep Stabilizes Learning",
+      "body": "Sleep helps consolidate memory and regulate emotional processing. After learning, restful sleep improves recall quality and problem-solving flexibility the next day. That is why consistent sleep often boosts performance more reliably than last-minute extra study time.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Attention switching",
+      "body": "Attention switching explains a key idea in this category in a direct, practical way. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Decision fatigue",
+      "body": "Decision fatigue is easier to understand when viewed as a real system, not just a definition. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Cognitive bias",
+      "body": "Cognitive bias is a useful concept because small changes can produce clear real-world effects. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Social proof",
+      "body": "Social proof gives readers a concrete entry point into a bigger topic. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Motivation loops",
+      "body": "Motivation loops explains a key idea in this category in a direct, practical way. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Stress regulation",
+      "body": "Stress regulation is easier to understand when viewed as a real system, not just a definition. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Emotional labeling",
+      "body": "Emotional labeling is a useful concept because small changes can produce clear real-world effects. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Memory cues",
+      "body": "Memory cues gives readers a concrete entry point into a bigger topic. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Growth mindset",
+      "body": "Growth mindset explains a key idea in this category in a direct, practical way. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Self-control limits",
+      "body": "Self-control limits is easier to understand when viewed as a real system, not just a definition. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Habit stacking",
+      "body": "Habit stacking is a useful concept because small changes can produce clear real-world effects. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Framing effects",
+      "body": "Framing effects gives readers a concrete entry point into a bigger topic. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Reward prediction",
+      "body": "Reward prediction explains a key idea in this category in a direct, practical way. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Mind wandering",
+      "body": "Mind wandering is easier to understand when viewed as a real system, not just a definition. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Conflict resolution",
+      "body": "Conflict resolution is a useful concept because small changes can produce clear real-world effects. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Learning transfer",
+      "body": "Learning transfer gives readers a concrete entry point into a bigger topic. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Confidence calibration",
+      "body": "Confidence calibration explains a key idea in this category in a direct, practical way. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Goal setting",
+      "body": "Goal setting is easier to understand when viewed as a real system, not just a definition. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Feedback timing",
+      "body": "Feedback timing is a useful concept because small changes can produce clear real-world effects. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Procrastination patterns",
+      "body": "Procrastination patterns gives readers a concrete entry point into a bigger topic. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Flow state",
+      "body": "Flow state explains a key idea in this category in a direct, practical way. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Resilience training",
+      "body": "Resilience training is easier to understand when viewed as a real system, not just a definition. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Psychology",
+      "title": "Empathy signals",
+      "body": "Empathy signals is a useful concept because small changes can produce clear real-world effects. Behavior is shaped by attention, emotion, memory, and social context rather than a single cause. This perspective turns abstract mental processes into practical insights for everyday decisions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

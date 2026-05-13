@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Xcode user/local state
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+
+# Local Firebase admin secrets (never commit)
+serviceAccountKey.json
+*.p12
+*.pem
+
+# Local translation work artifacts (optional to keep out of app repo)
+translations/
+factsHumanHindi.json
+factsNatureHindi.json
+factshindi.json
+factsspacehi.json
+facts_all_languages.json
+

@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Space",
+      "title": "The Sun Is a Working Star",
+      "body": "The Sun is a medium-sized star at the center of the solar system. It produces energy through nuclear fusion in its core. Sunlight takes about eight minutes to reach Earth.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "The Moon Guides Tides and Time",
+      "body": "The Moon is Earth’s natural satellite. Its gravity is the main cause of ocean tides. The same side always faces Earth because of tidal locking.\n\nMoon phases depend on the changing angle between the Sun, Earth, and Moon. Its surface preserves impact craters for long ages.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Mercury’s Fast and Harsh World",
+      "body": "Mercury is the closest planet to the Sun. It has almost no thick atmosphere to hold heat. A Mercurian day and year create unusual cycles of daylight.\n\nIts surface is heavily cratered like the Moon. Spacecraft studies revealed water ice in shadowed polar craters.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Venus Wrapped in Clouds",
+      "body": "Venus is similar in size to Earth but very different in conditions. Its thick atmosphere is mostly carbon dioxide. A runaway greenhouse effect makes its surface extremely hot.\n\nVenus rotates very slowly and in the opposite direction of most planets. Clouds of sulfuric acid hide much of the surface from ordinary view.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Earth the Water World",
+      "body": "Earth is the only known planet with stable liquid water on its surface. Its atmosphere and magnetic field help protect life. Plate tectonics reshapes the surface over time.\n\nThe planet’s climate system links oceans, air, ice, and living things. Earth orbits in a region where temperatures can support liquid water.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Mars and the Search for Ancient Water",
+      "body": "Mars is a cold rocky planet often called the red planet. Iron-rich minerals give its soil a rusty color. Rovers and orbiters have found strong signs that liquid water existed there long ago.\n\nMars has enormous volcanoes and a vast canyon system. Scientists study Mars to learn whether it may once have supported microbial life.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Jupiter the Giant with Many Moons",
+      "body": "Jupiter is the largest planet in the solar system. It is mostly made of hydrogen and helium. Its Great Red Spot is a huge long-lived storm.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Saturn and the Beauty of Rings",
+      "body": "Saturn is a giant planet famous for its bright ring system. The rings are made mostly of ice particles mixed with rock and dust. Saturn is less dense than water on average.\n\nMany moons orbit Saturn, including Titan and Enceladus. The planet’s winds and storms shape changing patterns in its atmosphere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Uranus Turns on Its Side",
+      "body": "Uranus is an ice giant with a blue-green appearance. Methane in its atmosphere helps give it that color. Its axis is tilted so extremely that the planet seems to roll around the Sun.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Neptune and the Far Blue Winds",
+      "body": "Neptune is the outermost major planet in the solar system. It is an ice giant with a deep blue color. Very fast winds move through its atmosphere.\n\nNeptune was discovered through mathematical prediction before direct observation. Its moon Triton likely came from the distant outer regions of the solar system.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Pluto and the Distant Icy Frontier",
+      "body": "Pluto is a dwarf planet in the Kuiper Belt. It has mountains of water ice and plains of frozen nitrogen. Its orbit is more tilted and stretched than those of the major planets.\n\nPluto and its large moon Charon orbit closely as a paired system. A spacecraft flyby revealed a surprisingly varied surface.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Asteroids Left from Planet Building",
+      "body": "Asteroids are rocky bodies left over from the early solar system. Many orbit in the asteroid belt between Mars and Jupiter. They range from tiny fragments to large objects hundreds of kilometers wide.\n\nSome asteroids pass near Earth and are closely tracked. Studying them helps scientists understand planet formation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Comets with Tails of Dust and Gas",
+      "body": "Comets are icy bodies that often come from the outer solar system. When they approach the Sun, heat releases gas and dust. That material can create glowing comas and long tails.\n\nThe tails point away from the Sun because of radiation and the solar wind. Comets preserve ancient material from the solar system’s early history.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Meteors Across the Night Sky",
+      "body": "A meteor is the streak of light made when a small space rock burns in the atmosphere. The object in space is called a meteoroid. If part of it reaches the ground, it becomes a meteorite.\n\nMeteor showers happen when Earth passes through trails of debris. Many meteorites help scientists study material older than Earth’s surface rocks.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "The Milky Way as Our Galactic Home",
+      "body": "The Milky Way is the galaxy that contains the Sun and solar system. It is a barred spiral galaxy with stars, gas, dust, and dark matter. From Earth, it appears as a pale band across a dark sky.\n\nThe solar system lies in one of its spiral arms. Studying the Milky Way helps astronomers place Earth in a much larger structure.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Nebulae Where Stars Are Born",
+      "body": "Nebulae are clouds of gas and dust in space. Some nebulae are regions where new stars form. Others are the remains of dying stars that have shed material.\n\nDifferent gases glow in different colors when energized. Nebulae reveal how matter cycles through generations of stars.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Black Holes and Extreme Gravity",
+      "body": "A black hole is a region where gravity is so strong that not even light can escape from within its event horizon. Most known black holes form after very massive stars collapse. Supermassive black holes sit in the centers of many galaxies.\n\nBlack holes can be detected by their effects on nearby matter and light. They are key test grounds for ideas about gravity and space.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Stars Live Long Life Cycles",
+      "body": "Stars form from collapsing clouds of gas. They shine because fusion in their cores releases enormous energy. A star’s mass strongly affects its lifetime and fate. Some end as white dwarfs while the most massive may explode and leave neutron stars or black holes.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Supernovae Seed the Cosmos",
+      "body": "A supernova is a powerful stellar explosion. It can happen when a massive star dies or when a white dwarf becomes unstable. These explosions can briefly outshine entire galaxies.\n\nSupernovae create and spread many heavy elements through space. They help trigger new rounds of star formation in nearby clouds.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Exoplanets Beyond the Solar System",
+      "body": "Exoplanets are planets orbiting stars other than the Sun. Thousands have been discovered using several detection methods. Some are giant hot worlds close to their stars, while others are small rocky planets.\n\nAstronomers look for atmospheres and possible habitability clues. Exoplanet studies show that planetary systems are common and varied.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "The International Space Station in Orbit",
+      "body": "The International Space Station is a large laboratory that circles Earth. Astronauts live and work there in microgravity. Research on the station helps scientists study biology, physics, materials, and human health.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Rockets Defy Earth’s Gravity",
+      "body": "Rockets work by pushing exhaust backward so the vehicle moves forward. This follows the conservation of momentum. Because rockets carry both fuel and oxidizer, they can work in space where there is no air.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Satellites Above the Planet",
+      "body": "Artificial satellites orbit Earth and other worlds for many purposes. Some provide communication, navigation, and weather information. Others study climate, oceans, forests, and disasters from above. Different orbits are chosen depending on the mission.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Auroras Paint the Polar Sky",
+      "body": "Auroras are glowing displays seen near polar regions. They occur when charged particles from the Sun interact with Earth’s magnetic field and upper atmosphere. Different gases in the atmosphere can glow in different colors.\n\nAuroras are linked to space weather and solar activity. They reveal that Earth is connected to events happening far out in space.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Dark Matter and Cosmic Mystery",
+      "body": "Dark matter is a form of matter inferred from gravity rather than direct light detection. It appears to make up much more of the universe’s matter than ordinary visible material. Galaxies rotate and cluster in ways that suggest dark matter is present.\n\nScientists still do not know its exact nature. Its mystery is one of the biggest open questions in astronomy.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Exoplanets Are Common",
+      "body": "Astronomers have confirmed thousands of planets around other stars using transit dips and subtle stellar wobbles. Many systems look very different from our own solar system. Each discovery improves models of planet formation and helps narrow the search for potentially habitable worlds.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Black Holes Shape Galaxies",
+      "body": "Supermassive black holes sit at the centers of most large galaxies. As matter falls in, energy released near the black hole can influence surrounding gas and star formation. So black holes are not only endpoints of gravity; they are also active drivers in galaxy evolution.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Nebula formation",
+      "body": "Nebula formation explains a key idea in this category in a direct, practical way. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Star lifecycles",
+      "body": "Star lifecycles is easier to understand when viewed as a real system, not just a definition. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Red giants",
+      "body": "Red giants is a useful concept because small changes can produce clear real-world effects. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "White dwarfs",
+      "body": "White dwarfs gives readers a concrete entry point into a bigger topic. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Neutron stars",
+      "body": "Neutron stars explains a key idea in this category in a direct, practical way. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Galaxy clusters",
+      "body": "Galaxy clusters is easier to understand when viewed as a real system, not just a definition. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Dark matter evidence",
+      "body": "Dark matter evidence is a useful concept because small changes can produce clear real-world effects. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Cosmic microwave background",
+      "body": "Cosmic microwave background gives readers a concrete entry point into a bigger topic. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Orbital mechanics",
+      "body": "Orbital mechanics explains a key idea in this category in a direct, practical way. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Lagrange points",
+      "body": "Lagrange points is easier to understand when viewed as a real system, not just a definition. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Solar wind",
+      "body": "Solar wind is a useful concept because small changes can produce clear real-world effects. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Auroras",
+      "body": "Auroras gives readers a concrete entry point into a bigger topic. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Asteroid families",
+      "body": "Asteroid families explains a key idea in this category in a direct, practical way. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Comet tails",
+      "body": "Comet tails is easier to understand when viewed as a real system, not just a definition. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Planetary atmospheres",
+      "body": "Planetary atmospheres is a useful concept because small changes can produce clear real-world effects. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Rover navigation",
+      "body": "Rover navigation gives readers a concrete entry point into a bigger topic. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Space telescopes",
+      "body": "Space telescopes explains a key idea in this category in a direct, practical way. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Gravitational lensing",
+      "body": "Gravitational lensing is easier to understand when viewed as a real system, not just a definition. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Habitable zones",
+      "body": "Habitable zones is a useful concept because small changes can produce clear real-world effects. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Tidal locking",
+      "body": "Tidal locking gives readers a concrete entry point into a bigger topic. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Exomoon search",
+      "body": "Exomoon search explains a key idea in this category in a direct, practical way. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Interstellar medium",
+      "body": "Interstellar medium is easier to understand when viewed as a real system, not just a definition. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Space",
+      "title": "Launch windows",
+      "body": "Launch windows is a useful concept because small changes can produce clear real-world effects. Space phenomena are shaped by gravity, radiation, scale, and orbital dynamics acting over immense distances. Studying these patterns helps explain both cosmic history and how Earth fits into the wider universe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

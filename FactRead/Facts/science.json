@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Science",
+      "title": "The Hidden Life of Atoms",
+      "body": "All ordinary matter is built from atoms, which are tiny units made of a nucleus and surrounding electrons. The nucleus contains protons and neutrons, while electrons occupy regions around it rather than fixed little tracks. The number of protons decides which element an atom belongs to, so a carbon atom is different from an oxygen atom because of its proton count.\n\nAtoms constantly interact by gaining, losing, or sharing electrons during chemical reactions. Those reactions explain why iron can rust, why salt dissolves in water, and why fuel releases energy when it burns.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Gravity Shapes the Universe",
+      "body": "Gravity is the force that pulls objects with mass toward one another, and it acts everywhere in the universe. It keeps your feet on Earth, guides the Moon around our planet, and holds galaxies together across immense distances. Even though gravity is the weakest of the basic forces at the scale of particles, it becomes dominant when huge amounts of matter are involved.\n\nIsaac Newton described gravity as an attraction between masses, which explained falling apples and planetary motion with the same idea. Albert Einstein later showed that gravity can also be understood as the bending of space and time by matter and energy.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Inside the Power of Photosynthesis",
+      "body": "Photosynthesis is the process plants, algae, and some bacteria use to turn light energy into stored chemical energy. Using sunlight, water, and carbon dioxide, these organisms build sugars that fuel growth and release oxygen as a byproduct. This process takes place mostly in chloroplasts, where the green pigment chlorophyll helps capture light.\n\nPhotosynthesis begins when light energy excites electrons and helps split water molecules. Later steps use that captured energy to assemble carbon atoms from carbon dioxide into sugars such as glucose.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "The Strange Behavior of Light",
+      "body": "Light is a form of electromagnetic radiation that travels incredibly fast and can move through empty space. It behaves in ways that seem unusual because it can act like a wave in some experiments and like a packet of energy in others. Visible light is only a tiny slice of the full electromagnetic spectrum, which also includes radio waves, microwaves, X rays, and more.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "A World Built by Cells",
+      "body": "Cells are the basic units of life, and every living organism is made of one or more of them. Some organisms, such as bacteria, consist of a single cell, while plants and animals are built from vast numbers of specialized cells working together. Each cell carries out essential jobs like obtaining energy, maintaining order, and responding to its environment.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "DNA Carries Life’s Instructions",
+      "body": "DNA is the molecule that stores the hereditary instructions used by living things to build and maintain their bodies. It is shaped like a double helix, which resembles a twisted ladder made of sugar, phosphate, and paired chemical bases. The order of those bases forms a code that cells can read to make proteins. Genes are stretches of DNA that contain instructions for specific traits or cellular functions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "The Chemistry of Acids and Bases",
+      "body": "Acids and bases are important groups of substances that behave differently in water and react in recognizable ways. Acids often release hydrogen ions in solution, while bases tend to accept hydrogen ions or release hydroxide ions. Common examples include vinegar and lemon juice as acids, and baking soda or soap solutions as bases.\n\nThe pH scale helps describe how acidic or basic a substance is by measuring hydrogen ion concentration. A low pH means stronger acidity, a high pH means stronger basicity, and a pH of seven is considered neutral for pure water.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Electricity in Everyday Life",
+      "body": "Electricity involves the presence and movement of electric charge, most often carried by electrons in materials. It powers lights, computers, trains, and countless tools, making it one of the most important parts of modern life. Some materials allow charge to move easily and are called conductors, while others resist movement and are called insulators.\n\nA current is the flow of charge through a circuit, and voltage is the push that drives that flow. Resistance slows the movement of charge, which is why circuit design must balance power, safety, and efficiency.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Heat and the Motion of Molecules",
+      "body": "Heat is related to the motion of particles inside matter, and temperature measures the average energy of that motion. When particles move faster, a substance generally becomes warmer, and when they slow down, it becomes cooler. This is why heating ice can turn it into water and further heating can turn water into vapor.\n\nThermal energy moves from warmer objects to cooler ones through conduction, convection, or radiation. A metal spoon in hot soup warms by conduction, moving air in a room spreads heat by convection, and sunlight reaches Earth by radiation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Sound Waves Through Matter",
+      "body": "Sound is produced when vibrations travel through a material such as air, water, or solid objects. Unlike light, sound cannot move through empty space because it needs particles to pass along the disturbance. When a guitar string vibrates or a person speaks, nearby particles begin a chain of motion that reaches the ear as sound.\n\nThe pitch of a sound depends mainly on frequency, which is how many vibrations occur each second. Loudness is related to amplitude, which describes how strong the vibration is as the wave travels.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Matter Changes State",
+      "body": "Matter commonly appears as solids, liquids, and gases, though plasma and other states also exist under special conditions. In a solid, particles stay close together in fairly fixed positions, while in a liquid they remain close but can slide past one another. In a gas, particles spread far apart and move much more freely, filling the space available to them.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Magnets and Invisible Fields",
+      "body": "Magnetism is a force connected to moving electric charges and certain materials such as iron, nickel, and cobalt. A magnet has north and south poles, and unlike poles attract while like poles repel. Around every magnet is a magnetic field, an invisible region where magnetic forces can act.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "The Story Written in Fossils",
+      "body": "Fossils are preserved remains, traces, or impressions of organisms from the past. They can include bones, shells, footprints, teeth, leaves, and even signs of ancient movement or feeding. Most fossils form when organisms are quickly buried by sediment, which protects them from rapid decay.\n\nOver long periods, minerals may replace original tissues or fill empty spaces, creating stone-like records of once-living things. Fossils are often found in sedimentary rock, where layers preserve a sequence of events through time.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Chemical Reactions Everywhere",
+      "body": "A chemical reaction happens when substances rearrange their atoms to form new substances with different properties. This means the total atoms are conserved, but the bonds between them change during the process. Cooking, digestion, burning, rusting, and photosynthesis are all examples of chemical reactions in action.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Vaccines Train the Immune System",
+      "body": "Vaccines help the immune system prepare for disease without requiring a person to suffer the full illness first. They usually expose the body to a harmless version, fragment, or blueprint of a pathogen so immune cells can learn to recognize it. This training makes future responses faster and stronger if the real pathogen appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "The Carbon Cycle Connects Life",
+      "body": "The carbon cycle describes how carbon moves among the atmosphere, oceans, rocks, soil, and living organisms. Carbon is a key part of sugars, fats, proteins, and many gases, so its movement affects life and climate alike. Plants remove carbon dioxide from the air during photosynthesis, while animals and microbes return carbon through respiration and decay.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Pressure Beneath Sea and Sky",
+      "body": "Pressure describes how much force is applied over a certain area, and it appears in gases, liquids, and solids. Air pressure surrounds us constantly because the atmosphere has weight, even though it is usually too evenly spread to notice. Changes in pressure influence weather, breathing, boiling, and the behavior of fluids in many systems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "The Rainbow of the Spectrum",
+      "body": "The electromagnetic spectrum includes all forms of electromagnetic radiation, ordered by wavelength and energy. Visible light is only the narrow band the human eye can detect, sitting between infrared and ultraviolet radiation. At other parts of the spectrum are radio waves, microwaves, X rays, and gamma rays, each with different uses and properties. Longer wavelengths such as radio waves are useful for broadcasting and communication, while shorter wavelengths often carry more energy.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Waves on Water and in Space",
+      "body": "A wave is a disturbance that transfers energy from one place to another without transporting matter in bulk. Waves can travel through materials, as sound does, or through empty space, as light does. They differ in size, speed, and shape, but many share common features such as wavelength, frequency, and amplitude.\n\nSome waves are transverse, meaning the disturbance moves perpendicular to the direction of travel, while others are longitudinal. Water surface waves combine several types of motion, which is why floating objects tend to bob in loops rather than move far with the wave itself.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Radioactivity and Atomic Change",
+      "body": "Radioactivity is the process by which unstable atomic nuclei change by releasing particles or energy. Some isotopes are stable for immense spans of time, while others decay more quickly into different forms of matter. This decay is natural and has existed on Earth since the planet formed.\n\nRadioactive decay can produce alpha particles, beta particles, or high-energy electromagnetic radiation called gamma rays. Scientists measure decay using half-life, which is the time required for half of a sample’s unstable nuclei to transform.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "The Architecture of Crystals",
+      "body": "Crystals are solids whose atoms, ions, or molecules are arranged in repeating patterns. That regular internal structure gives many crystals their sharp edges, flat faces, and predictable shapes. Salt, quartz, snowflakes, and many metals display crystalline organization, even when the pattern is too small to see directly.\n\nA crystal grows when particles join an ordered pattern more readily than a random one. Conditions such as temperature, pressure, and the speed of cooling affect crystal size and shape.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Enzymes Speed Up Life",
+      "body": "Enzymes are specialized proteins that speed up chemical reactions inside living organisms. Without them, many essential reactions would happen far too slowly to support life as we know it. Each enzyme usually works best with specific molecules, which gives cells fine control over complex chemistry.\n\nAn enzyme lowers the activation energy needed for a reaction to proceed. This allows digestion, energy release, DNA copying, and countless other processes to occur quickly and efficiently at ordinary body temperatures.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "The Science of Climate",
+      "body": "Climate science studies long-term patterns in temperature, rainfall, winds, and other features of Earth’s system. Unlike daily weather, climate focuses on broad averages, variability, and trends over years to centuries. To understand climate, scientists examine the atmosphere, oceans, ice, land, and living organisms as parts of one linked system. Sunlight provides the main energy input, but clouds, greenhouse gases, ocean currents, and land surfaces influence how that energy is stored and moved.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "From Stone to Glass and Steel",
+      "body": "Materials science explores how the structure of a material determines its properties and possible uses. A material’s strength, flexibility, conductivity, hardness, and resistance to heat all depend on its internal arrangement and composition. This is why wood, glass, steel, plastic, and ceramics behave so differently even when they are used for similar purposes.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Measuring the Invisible with Models",
+      "body": "Scientific models are simplified representations that help explain, predict, or visualize complex things. A model can be a drawing, a physical replica, a mathematical equation, or a computer simulation depending on the problem being studied. Because the real world is often too large, too small, or too complicated to examine directly, models make understanding possible.\n\nModels do not need to include every detail to be useful. A globe leaves out mountains but shows Earth’s overall shape, and a weather model cannot represent every air molecule yet can still forecast large patterns.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "DNA Stores Biological Instructions",
+      "body": "DNA encodes instructions used to build and maintain living organisms. Genes are segments of DNA, but when and how genes are expressed is regulated by many additional factors. This layered control helps explain why closely related organisms can still develop very different traits under different conditions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Plate Tectonics Recycles Earth’s Surface",
+      "body": "Earth’s crust is broken into moving plates that collide, separate, and slide past each other. These motions create mountains, earthquakes, and volcanic arcs over long timescales. Tectonics also cycles materials between surface and interior, influencing atmosphere, oceans, and long-term habitability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Photosynthesis",
+      "body": "Photosynthesis explains a key idea in this category in a direct, practical way. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Entropy trends",
+      "body": "Entropy trends is easier to understand when viewed as a real system, not just a definition. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Phase transitions",
+      "body": "Phase transitions is a useful concept because small changes can produce clear real-world effects. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Antibiotic resistance",
+      "body": "Antibiotic resistance gives readers a concrete entry point into a bigger topic. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Evolutionary pressure",
+      "body": "Evolutionary pressure explains a key idea in this category in a direct, practical way. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "RNA roles",
+      "body": "RNA roles is easier to understand when viewed as a real system, not just a definition. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Catalysts",
+      "body": "Catalysts is a useful concept because small changes can produce clear real-world effects. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Atmospheric layers",
+      "body": "Atmospheric layers gives readers a concrete entry point into a bigger topic. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Seismic waves",
+      "body": "Seismic waves explains a key idea in this category in a direct, practical way. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Fractal patterns",
+      "body": "Fractal patterns is easier to understand when viewed as a real system, not just a definition. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Quantum uncertainty",
+      "body": "Quantum uncertainty is a useful concept because small changes can produce clear real-world effects. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Optics refraction",
+      "body": "Optics refraction gives readers a concrete entry point into a bigger topic. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Spectroscopy",
+      "body": "Spectroscopy explains a key idea in this category in a direct, practical way. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Ecosystem modeling",
+      "body": "Ecosystem modeling is easier to understand when viewed as a real system, not just a definition. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Biogeochemical cycles",
+      "body": "Biogeochemical cycles is a useful concept because small changes can produce clear real-world effects. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Nanomaterials",
+      "body": "Nanomaterials gives readers a concrete entry point into a bigger topic. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Protein folding",
+      "body": "Protein folding explains a key idea in this category in a direct, practical way. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Neural networks biology",
+      "body": "Neural networks biology is easier to understand when viewed as a real system, not just a definition. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Planet formation",
+      "body": "Planet formation is a useful concept because small changes can produce clear real-world effects. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Magnetism",
+      "body": "Magnetism gives readers a concrete entry point into a bigger topic. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Radiation shielding",
+      "body": "Radiation shielding explains a key idea in this category in a direct, practical way. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Fluid dynamics",
+      "body": "Fluid dynamics is easier to understand when viewed as a real system, not just a definition. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Science",
+      "title": "Thermodynamic limits",
+      "body": "Thermodynamic limits is a useful concept because small changes can produce clear real-world effects. Scientific understanding improves through measurement, replication, and revision when stronger evidence appears. That process is why good science gets more precise over time instead of staying fixed.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

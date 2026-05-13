@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Human Body",
+      "title": "Your Brain as a Control Center",
+      "body": "The brain is the main control center of the nervous system. It processes senses, movement, memory, and emotion. Different regions specialize in different jobs.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Heart Never Truly Rests",
+      "body": "The heart is a muscular pump that moves blood through the body. It has four chambers that guide blood in a one-way path. Its rhythmic contractions are coordinated by electrical signals.\n\nBlood carries oxygen and nutrients to tissues. A healthy heart is central to overall health.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Lungs and the Exchange of Breath",
+      "body": "The lungs bring oxygen into the body and remove carbon dioxide. Air travels through branching tubes to tiny air sacs called alveoli. Gas exchange happens across very thin surfaces. Breathing is assisted by the diaphragm and chest muscles.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Blood the Body’s Transport River",
+      "body": "Blood is a fluid tissue that carries gases, nutrients, wastes, and signals. Red blood cells transport oxygen using hemoglobin. White blood cells help defend against infection.\n\nPlatelets assist with clotting after injury. Plasma carries dissolved substances through the body.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Bones Form a Living Framework",
+      "body": "Bones support the body and protect vital organs. They store minerals such as calcium and phosphorus. Bone marrow helps make blood cells.\n\nBones are living tissues that are constantly rebuilt. Joints allow bones to move in coordinated ways.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Muscles Create Motion",
+      "body": "Muscles allow movement, posture, and heat production. Skeletal muscles attach to bones and act under voluntary control. Smooth muscle works inside organs and blood vessels. Cardiac muscle forms the heart.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Skin the Body’s Protective Cover",
+      "body": "Skin is the body’s largest organ. It protects against injury, germs, and water loss. The skin helps regulate temperature and sense touch.\n\nLayers of skin have different functions and cell types. Pigment, oil glands, and sweat glands all play important roles.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Stomach Begins Digestion",
+      "body": "The stomach stores food and mixes it with acid and enzymes. Its muscular walls churn food into a semi-liquid mixture. Acid helps kill many microbes and unfold proteins.\n\nMucus protects the stomach lining from self-digestion. Digestion continues more fully in the small intestine.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Small Intestine Absorbs Nutrients",
+      "body": "The small intestine is the main site of nutrient absorption. Its inner surface has folds, villi, and microvilli for extra area. Enzymes and bile help break food into absorbable pieces.\n\nNutrients pass into blood or lymph. Its long length helps the body capture as much nourishment as possible.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Liver Performs Silent Chemistry",
+      "body": "The liver processes nutrients and many chemicals from digestion. It helps regulate blood sugar and stores energy. The liver makes bile for fat digestion.\n\nIt also helps break down toxins and old blood cells. This organ performs hundreds of important chemical tasks.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Kidneys as Natural Filters",
+      "body": "The kidneys filter blood and balance water, salts, and wastes. They form urine by carefully reabsorbing needed substances. Kidneys also help regulate blood pressure. They produce signals involved in red blood cell production.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Eye Captures Light",
+      "body": "The eye focuses light onto the retina. Photoreceptor cells convert light into nerve signals. The lens changes shape to help focus at different distances.\n\nThe iris controls how much light enters. Vision depends on both the eye and the brain.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Ears Hear and Help Balance",
+      "body": "The ear detects sound and contributes to balance. The outer ear collects sound waves. The middle ear transmits vibration through tiny bones.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Immune System Defends the Body",
+      "body": "The immune system helps protect the body from harmful microbes and abnormal cells. It includes barriers, white blood cells, antibodies, and signaling molecules. Some defenses act quickly while others are highly specific.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Nervous System Sends Messages Fast",
+      "body": "The nervous system coordinates sensation, thought, and response. The brain and spinal cord form the central nervous system. Nerves reaching the body form the peripheral nervous system. Neurons send signals rapidly along specialized pathways.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Hormones and the Endocrine System",
+      "body": "Hormones are chemical messengers released into the blood. They help regulate growth, metabolism, stress, and reproduction. Glands such as the thyroid and pancreas produce important hormones.\n\nHormonal effects are often slower than nerve signals but longer lasting. The endocrine system helps maintain internal balance.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "DNA Inside Every Cell Nucleus",
+      "body": "The nucleus stores most of a cell’s DNA in many human cells. It helps control which genes are active. Genetic instructions guide protein production and cell behavior. DNA is packaged into chromosomes.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Human Microbiome",
+      "body": "The human body hosts communities of helpful microbes. Many live on the skin and in the gut. These microbes can aid digestion and compete with harmful organisms.\n\nThey also interact with the immune system. A healthy microbiome is influenced by diet, environment, and habits.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Teeth Built for Biting and Grinding",
+      "body": "Human teeth cut, tear, and grind food before swallowing. Enamel is the hardest substance in the body. Different tooth shapes have different jobs. Baby teeth are later replaced by most adult teeth.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Sleep Repairs and Resets",
+      "body": "Sleep is an active biological state rather than simple shutdown. During sleep the body and brain carry out repair and regulation. Sleep helps memory, mood, and attention.\n\nPeople cycle through different stages including rapid eye movement sleep. Too little sleep can affect nearly every system.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Spinal Cord as Information Highway",
+      "body": "The spinal cord carries signals between the brain and the body. It also helps control reflexes that happen very quickly. Protective bones called vertebrae surround it.\n\nDifferent levels of the cord connect with different body regions. Damage there can disrupt movement and sensation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "The Pancreas Balances Digestion and Sugar",
+      "body": "The pancreas aids digestion and blood sugar control. It releases digestive enzymes into the small intestine. It also makes hormones including insulin and glucagon.\n\nThose hormones help keep glucose levels in a healthy range. This small organ has both digestive and endocrine roles.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Hair and Nails from Living Roots",
+      "body": "Hair and nails are made mostly of tough protein called keratin. Visible hair and nail portions are not living tissue. Growth comes from active cells at their base. Hair can help with protection and temperature regulation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Reflexes Faster Than Thought",
+      "body": "A reflex is a rapid automatic response to a stimulus. Some reflexes are handled largely through the spinal cord. They help protect the body from injury.\n\nReflex testing can reveal nervous system function. These quick pathways show that not every response waits for full conscious processing.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Growth from Childhood to Adulthood",
+      "body": "Human growth involves cell division, hormones, nutrition, and genetics. Bones lengthen at growth plates during childhood. The brain and body mature at different speeds.\n\nPuberty brings major physical and hormonal changes. Growth reflects both inherited traits and environmental conditions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Bones Are Living Tissue",
+      "body": "Bones are not static structures. They constantly remodel through cells that break down old bone and build new bone, helping the skeleton adapt to stress and repair tiny damage over time. Strength training, nutrition, and hormones all influence this cycle, which is why movement and diet matter for long-term bone health.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Skin Is a Smart Barrier",
+      "body": "Skin protects against microbes, limits water loss, and helps regulate temperature. It also contains sensory receptors that detect pressure, pain, and heat in real time. Because skin performs many jobs at once, small changes like hydration, sleep, and sun exposure can affect both comfort and recovery.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Immune memory",
+      "body": "Immune memory explains a key idea in this category in a direct, practical way. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Gut microbiome",
+      "body": "Gut microbiome is easier to understand when viewed as a real system, not just a definition. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Lung exchange",
+      "body": "Lung exchange is a useful concept because small changes can produce clear real-world effects. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Kidney filtration",
+      "body": "Kidney filtration gives readers a concrete entry point into a bigger topic. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Muscle recovery",
+      "body": "Muscle recovery explains a key idea in this category in a direct, practical way. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Hormonal feedback",
+      "body": "Hormonal feedback is easier to understand when viewed as a real system, not just a definition. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Vision adaptation",
+      "body": "Vision adaptation is a useful concept because small changes can produce clear real-world effects. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Hearing precision",
+      "body": "Hearing precision gives readers a concrete entry point into a bigger topic. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Sleep cycles",
+      "body": "Sleep cycles explains a key idea in this category in a direct, practical way. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Circulation pressure",
+      "body": "Circulation pressure is easier to understand when viewed as a real system, not just a definition. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Nerve signaling speed",
+      "body": "Nerve signaling speed is a useful concept because small changes can produce clear real-world effects. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Joint lubrication",
+      "body": "Joint lubrication gives readers a concrete entry point into a bigger topic. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Liver detox pathways",
+      "body": "Liver detox pathways explains a key idea in this category in a direct, practical way. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Hydration balance",
+      "body": "Hydration balance is easier to understand when viewed as a real system, not just a definition. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Thermoregulation",
+      "body": "Thermoregulation is a useful concept because small changes can produce clear real-world effects. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Wound repair",
+      "body": "Wound repair gives readers a concrete entry point into a bigger topic. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Posture mechanics",
+      "body": "Posture mechanics explains a key idea in this category in a direct, practical way. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Reflex arcs",
+      "body": "Reflex arcs is easier to understand when viewed as a real system, not just a definition. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Metabolism shifts",
+      "body": "Metabolism shifts is a useful concept because small changes can produce clear real-world effects. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Pain signaling",
+      "body": "Pain signaling gives readers a concrete entry point into a bigger topic. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Cell turnover",
+      "body": "Cell turnover explains a key idea in this category in a direct, practical way. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Oxygen transport",
+      "body": "Oxygen transport is easier to understand when viewed as a real system, not just a definition. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Human Body",
+      "title": "Tendon elasticity",
+      "body": "Tendon elasticity is a useful concept because small changes can produce clear real-world effects. Body systems coordinate continuously through nerves, hormones, circulation, and feedback loops to maintain stability. Understanding that coordination makes health, performance, and recovery patterns much easier to interpret.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "History",
+      "title": "Writing Changed Human Memory",
+      "body": "Writing allowed people to record language beyond speech. It helped preserve laws, trade, stories, and ideas. Different writing systems developed in different places.\n\nWritten records greatly expanded administration and history. Literacy transformed how knowledge moved across generations.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Farming Reshaped Early Societies",
+      "body": "Agriculture began when people domesticated plants and animals. Farming supported larger settled communities. It changed labor, trade, diet, and land use.\n\nSurplus food allowed more specialized work. Early agriculture developed independently in multiple regions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Cities Became Centers of Power",
+      "body": "Early cities brought together people, trade, leadership, and religion. Urban life required planning for food, water, and defense. Cities encouraged crafts and administration.\n\nThey also increased social complexity. Some of the oldest cities rose near fertile river valleys.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The Silk Road Linked Distant Worlds",
+      "body": "The Silk Road was a network of trade routes rather than one single road. Goods, ideas, technologies, and religions moved along it. Merchants crossed deserts, mountains, and empires. Silk was famous, but many other products traveled too.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Ancient Egypt and the Nile",
+      "body": "Ancient Egypt grew along the Nile River. Seasonal flooding helped agriculture flourish. Egyptians built monumental architecture and a strong state.\n\nWriting, religion, and engineering shaped their civilization. The Nile was central to transport, farming, and culture.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Greece and the Rise of Debate",
+      "body": "Ancient Greek societies produced influential ideas in politics, philosophy, and art. City-states such as Athens and Sparta developed very differently. Public debate and citizenship became important in some places.\n\nGreek thinkers asked lasting questions about nature and ethics. Their legacy spread widely through later cultures.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Rome Built an Expansive Empire",
+      "body": "Rome grew from a city into a vast empire. Roman engineering supported roads, aqueducts, and public buildings. Law and military organization helped maintain control.\n\nThe empire included many peoples and languages. Roman influence remained strong long after political decline.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "India’s Ancient Centers of Learning",
+      "body": "Ancient India was home to major cities, kingdoms, and intellectual traditions. Mathematics, medicine, philosophy, and literature developed there over long periods. Trade linked the region to Central Asia, the Middle East, and seas beyond.\n\nReligious and cultural traditions shaped daily life and statecraft. The subcontinent’s history includes both continuity and great change.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "China and Imperial Continuity",
+      "body": "Chinese history includes long traditions of state administration, scholarship, and technological innovation. Different dynasties ruled across many centuries. Paper, printing, and other inventions spread influence widely.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The Maya Read the Sky",
+      "body": "Maya civilization developed advanced calendars, writing, architecture, and astronomy. Maya cities flourished in Mesoamerica. They built temples and recorded royal histories.\n\nTheir knowledge of cycles and celestial observations was impressive. Maya culture continued in many forms beyond the decline of some cities.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The Age of Exploration Expanded Maps",
+      "body": "The Age of Exploration linked continents more directly by sea. European voyages reached the Americas and sea routes around Africa. Navigation, trade, ambition, and competition all played roles. These journeys increased exchange of goods, people, plants, and diseases.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Printing Press and the Spread of Ideas",
+      "body": "Movable-type printing greatly increased the speed of copying texts. Books became more available than hand-copied manuscripts. Knowledge could spread more widely and consistently.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The Renaissance Revived Curiosity",
+      "body": "The Renaissance was a period of renewed interest in art, learning, and classical texts in parts of Europe. Artists studied perspective, anatomy, and realism. Scholars revisited older writings and encouraged fresh inquiry.\n\nPatrons supported creative work in cities and courts. The period shaped later science, art, and education.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Scientific Revolution Changed Explanations",
+      "body": "The Scientific Revolution changed how many people studied nature. Observation, measurement, and experiment became more central. Thinkers challenged older assumptions with new evidence.\n\nAstronomy, physics, and anatomy advanced rapidly. The period helped form modern scientific methods.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The Industrial Revolution Accelerated Change",
+      "body": "The Industrial Revolution brought machine-powered production to many industries. Factories, steam power, and new transport changed work and cities. Production increased, but living and labor conditions often became difficult.\n\nCoal and iron were especially important resources. Industrialization spread unevenly across the world.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Railways Shrunk Distance",
+      "body": "Railways transformed travel and trade in the nineteenth century. They moved goods and people faster than most earlier land transport. Rail networks helped unify markets and states.\n\nStations became new centers of activity. Railways also changed timekeeping and planning.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Abolition Challenged Enslavement",
+      "body": "Abolition movements fought to end slavery and the slave trade. Campaigns used moral arguments, resistance, and political pressure. Enslaved people themselves were central to struggles for freedom.\n\nDifferent countries ended slavery at different times. The history of abolition remains tied to questions of justice and memory.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "World War I and Global Upheaval",
+      "body": "World War I was a major conflict involving many nations. Industrial weapons increased the scale of destruction. Trench warfare became a defining image of the war in Europe.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "World War II and Total War",
+      "body": "World War II was fought across Europe, Asia, Africa, and the oceans. It involved military conflict, occupation, resistance, and vast civilian suffering. Technology and industry were used on enormous scales.\n\nThe war ended with major geopolitical changes. Its legacy shaped international institutions and memory.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The United Nations After War",
+      "body": "The United Nations was founded after World War II. Its purpose included encouraging cooperation and reducing future conflict. It created forums for diplomacy among nations. The organization also works on health, development, and humanitarian issues.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Decolonization and New Nations",
+      "body": "Decolonization describes the end of formal colonial rule in many regions. New nations emerged through negotiation, activism, and struggle. The process took different paths in Asia, Africa, and elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The Civil Rights Movement for Equality",
+      "body": "Civil rights movements sought equal rights under law and in daily life. Organizers used protest, legal action, speeches, and community mobilization. Young people, local leaders, and national figures all played roles.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Computers Enter Everyday History",
+      "body": "Computers moved from rare machines to everyday tools within a few generations. Early devices were large and specialized. Advances in electronics, programming, and networking made them smaller and more useful. Digital technology changed work, communication, and entertainment.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The Space Age Changed Perspective",
+      "body": "The Space Age began when humans first launched objects into orbit. Satellites, moon missions, and planetary probes followed. Space achievements became symbols of science and national ambition.\n\nImages of Earth from space changed how people viewed the planet. The era connected technology with global imagination.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "History Lives Through Evidence",
+      "body": "Historians study the past using documents, objects, buildings, images, and oral accounts. Different sources answer different questions. Evidence must be interpreted carefully because all sources have limits.\n\nNew discoveries can change accepted stories. History is not only about dates but about understanding change over time.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "The Printing Press Scaled Ideas",
+      "body": "Before printing, books were copied by hand and remained expensive. Gutenberg-style movable type reduced cost and increased speed, making texts available to far more people. As books spread, literacy grew and debates moved faster across regions. Scientific methods, political arguments, and religious reforms all accelerated because ideas could be copied consistently and widely.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Maps Changed Power",
+      "body": "Accurate maps improved navigation, taxation, military planning, and trade. States that invested in surveying and cartography often governed more effectively because decisions could be tied to reliable geographic detail. Even today, modern digital mapping follows the same core principle: better spatial information improves planning and reduces costly mistakes.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Paper Changed Record-Keeping",
+      "body": "Affordable paper expanded administration, commerce, and scholarship compared with heavier writing materials. Lower writing cost increased documentation quality and helped institutions scale more reliably.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Postal Systems Linked States",
+      "body": "Organized courier routes improved governance by reducing communication delays across provinces. Faster message exchange improved tax coordination, legal consistency, and military response times.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Coinage Standardized Trade",
+      "body": "Standardized metal coins reduced barter friction by creating widely trusted units of value. This made long-distance trade more predictable and easier to audit.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Canals Rewired Economies",
+      "body": "Canal networks lowered transport costs for heavy goods before railways dominated. Cities connected to canal routes often grew quickly through trade concentration.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Universities Preserved Knowledge",
+      "body": "Medieval and early modern universities maintained curricula and debate traditions across generations. Institutional continuity helped stabilize knowledge transfer during political change.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Calendars Enabled Coordination",
+      "body": "Shared calendars aligned farming, taxes, rituals, and legal deadlines. Accurate timekeeping reduced confusion in administration and commerce.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Public Archives Built Trust",
+      "body": "Archiving treaties, property records, and laws improved dispute resolution. When records were accessible and durable, governance became more predictable.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Road Networks Expanded States",
+      "body": "Road engineering improved military movement and market integration. Durable routes also helped spread language, law, and administrative standards.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Guilds Protected Craft Quality",
+      "body": "Guild systems trained apprentices and enforced production standards in many cities. While sometimes restrictive, they preserved technical skills and professional identity.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Census Data Guided Policy",
+      "body": "Population counts informed taxation, conscription, and public works planning. Better demographic data improved resource allocation and crisis response.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Lighthouses Secured Shipping",
+      "body": "Coastal navigation aids reduced ship losses and protected trade routes. Reliable maritime passage supported urban growth in port economies.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Museums Shaped Public Memory",
+      "body": "National and civic museums curated objects to define shared identity narratives. Collection choices influence how societies remember conflict, innovation, and culture.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Telegraph Compressed Distance",
+      "body": "Telegraph networks transformed communication speed from days to minutes. Financial markets, diplomacy, and news cycles changed rapidly under this new timing.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Vaccination Campaigns Scaled Health",
+      "body": "Public vaccination efforts reduced epidemic mortality in many regions. Administrative logistics became as important as medical discovery for outcomes.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Railways Standardized Time",
+      "body": "Rail schedules required synchronized clocks across cities. Time standardization later influenced industry, education, and daily life norms.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Printing in Vernaculars Broadened Access",
+      "body": "Publishing in local languages widened readership beyond elites. This shift accelerated literacy and public participation in political debates.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Insurance Reduced Commercial Risk",
+      "body": "Marine and trade insurance spread financial risk across many participants. That stability encouraged larger and more frequent commercial ventures.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Scientific Societies Formalized Peer Exchange",
+      "body": "Learned societies created regular forums for presenting and disputing findings. Structured critique improved reproducibility and long-term credibility of results.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Public Libraries Democratized Learning",
+      "body": "Libraries extended access to books for people outside universities. Wider reading access supported social mobility and civic literacy.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Bridges Reconnected Regions",
+      "body": "Bridge construction changed trade flows and labor migration patterns. Permanent crossings often turned small settlements into strategic market nodes.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Treaties Redrew Borders Repeatedly",
+      "body": "Diplomatic settlements often reconfigured borders after conflict. These changes affected language policy, taxation, and identity for generations.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Photography Changed Historical Evidence",
+      "body": "Photographs provided new visual records of places, events, and people. While powerful, images still require context because framing and selection shape interpretation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "History",
+      "title": "Ports Became Innovation Hubs",
+      "body": "Port cities mixed merchants, engineers, and migrants from many regions. High exchange density often accelerated technological adoption and institutional change.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Technology",
+      "title": "Transistors Built the Digital Age",
+      "body": "The transistor is a tiny electronic switch or amplifier. It replaced bulkier vacuum tubes in many systems. Transistors made electronics smaller, faster, and more reliable.\n\nModern chips contain billions of them. Without transistors, today’s digital devices would not exist.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Microchips Pack Power into Silicon",
+      "body": "A microchip is a small piece of semiconductor material carrying electronic circuits. Most modern chips are made from silicon. Photolithography helps create incredibly fine patterns on their surface. Different chips handle processing, memory, sensing, or communication.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "The Internet Connects Networks",
+      "body": "The internet is a global system of linked computer networks. Data moves through agreed rules called protocols. No single machine contains the whole internet.\n\nIts design allows many networks to exchange information. The internet changed communication, commerce, and learning.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "The Web Organizes Online Information",
+      "body": "The World Wide Web is a system of linked pages and resources that runs on top of the internet. Web browsers retrieve and display these resources. Links allow users to move from page to page easily.\n\nThe web made online information more accessible to the public. It is only one service among many that use the internet.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Smartphones Put Computers in Pockets",
+      "body": "Smartphones combine communication, computing, cameras, sensors, and apps. Touchscreens replaced many physical buttons. Mobile operating systems manage hardware and software together.\n\nApp ecosystems allowed rapid growth of new services. These devices changed photography, navigation, messaging, and daily habits.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Batteries Store Portable Energy",
+      "body": "Batteries store chemical energy and release it as electricity. Different battery types are designed for different uses. Rechargeable batteries can be used many times. Performance depends on chemistry, temperature, and wear.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "GPS Finds Position from Space",
+      "body": "Global Positioning System technology uses satellites to estimate location and time. Receivers compare signals from multiple satellites. Very precise timing is essential for accurate results. Navigation apps depend on this system and related networks.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Robots Extend Human Ability",
+      "body": "Robots are machines that can sense, process, and act in the world. Some work in factories, while others explore, assist, or entertain. Robots may be remote-controlled, partly automatic, or highly autonomous. Sensors and software guide their actions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Artificial Intelligence Learns Patterns",
+      "body": "Artificial intelligence refers to systems that perform tasks linked with human-like reasoning or pattern recognition. Many modern AI systems learn from data. AI can help with language, images, prediction, and automation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Machine Learning from Data",
+      "body": "Machine learning is a branch of AI in which systems improve by finding patterns in data. Models are trained rather than manually programmed for every rule. Different approaches suit different problems.\n\nGood evaluation matters because a model can appear strong on one set but fail in real use. Machine learning powers many modern digital services.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Cloud Computing Beyond One Machine",
+      "body": "Cloud computing provides computing resources over networks when needed. It lets users access storage, processing, and services without owning all the hardware. Resources can scale up or down with demand.\n\nData centers make this possible. Cloud systems support many modern apps and business tools.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Cybersecurity Defends Digital Systems",
+      "body": "Cybersecurity protects devices, networks, and data from misuse or attack. Security includes strong passwords, encryption, updates, and careful system design. Threats range from phishing to software vulnerabilities.\n\nDefenders and attackers both adapt quickly. Good security depends on both technology and human behavior.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Encryption Hides Information in Plain Sight",
+      "body": "Encryption turns readable information into a protected form. Only someone with the right key should be able to restore it easily. It helps secure messages, payments, and stored files.\n\nDifferent methods serve different purposes. Modern digital privacy relies heavily on encryption.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Databases Organize Huge Information",
+      "body": "A database is an organized system for storing and retrieving information. Databases make it possible to search, sort, update, and protect data efficiently. Some are structured in tables while others use different models. Reliable databases support apps, websites, and institutions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Programming Gives Machines Instructions",
+      "body": "Programming is the process of writing instructions for computers. Programs tell hardware how to process data and react to input. Different languages are designed for different styles and goals.\n\nDebugging is needed because even small errors can change results. Programming turns ideas into working digital tools.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Open Source and Shared Building",
+      "body": "Open source software makes source code available for study and modification. Communities can improve tools together. Many major technologies depend on open-source projects. Sharing code can speed learning and innovation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "3D Printing Builds Layer by Layer",
+      "body": "3D printing creates objects by adding material layer by layer. Designs are usually prepared from digital models. Different printers use plastic, resin, metal, or other materials.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Virtual Reality Creates Immersive Worlds",
+      "body": "Virtual reality uses displays and sensors to create immersive digital environments. Head movement changes the view in real time. Good VR systems aim to reduce delay for comfort.\n\nApplications include training, design, games, and simulation. VR changes how people experience digital space.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Augmented Reality Adds Digital Layers",
+      "body": "Augmented reality places digital information over the physical world. Phones, tablets, and specialized headsets can show these overlays. AR depends on tracking position, surfaces, or markers.\n\nIt is useful for learning, navigation, shopping, and games. Instead of replacing reality, AR enriches it.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Solar Panels Turn Light into Power",
+      "body": "Solar panels convert sunlight into electricity using photovoltaic cells. When light hits certain materials, electrons can be set in motion. Panels work best with strong light and good placement.\n\nSystems often use inverters to prepare power for practical use. Solar technology has become an important part of clean energy.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Wind Turbines Harvest Moving Air",
+      "body": "Wind turbines convert the kinetic energy of moving air into electricity. Large blades turn a generator when winds are strong enough. Placement matters because wind patterns vary by landscape and height.\n\nModern turbines can be very large and efficient. Wind power is a major renewable energy technology.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Sensors Help Devices Perceive",
+      "body": "Sensors detect changes such as light, motion, heat, pressure, or sound. They let devices respond to the environment. Phones use many sensors for orientation, cameras, and location features. Industrial sensors monitor machines and safety conditions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Streaming Changed Media Delivery",
+      "body": "Streaming delivers audio or video as data arrives over a network. It reduced the need to store complete files before playback. Compression makes large media practical to send. Streaming changed music, film, education, and live events.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Electric Vehicles Rethink Transport",
+      "body": "Electric vehicles use electric motors instead of traditional combustion engines. They often have fewer moving mechanical parts in the drivetrain. Battery design strongly affects range and weight. Charging systems and infrastructure are important for widespread use.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Technology Evolves with Society",
+      "body": "Technology is shaped not just by invention but by cost, culture, law, and need. A powerful tool can spread slowly if support systems are missing. Old technologies often remain useful beside new ones.\n\nPeople adapt technology, and technology also changes behavior. The story of technology is really a story about people as well as machines.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "The Internet Works Through Layered Protocols",
+      "body": "Online communication is possible because different protocol layers handle addressing, routing, reliability, and presentation. Each layer solves a specific problem while interoperating with the others. This modular design is why new apps can evolve quickly without rebuilding the entire network foundation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Batteries Are Chemistry in Motion",
+      "body": "Rechargeable batteries store energy through reversible chemical reactions between electrodes and electrolytes. Performance depends on trade-offs among energy density, safety, lifetime, and charging speed. Advances in materials science continue to improve these trade-offs, enabling better phones, vehicles, and grid storage systems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Semiconductor nodes keep shrinking with trade-offs",
+      "body": "Chipmakers continue pushing smaller process nodes, but gains now come with rising complexity and cost. Performance improvements depend on packaging, power delivery, and thermal design as much as raw transistor density.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Advanced packaging boosts real-world chip performance",
+      "body": "Modern chips increasingly use chiplets and advanced packaging to combine specialized blocks efficiently. This approach improves yield, enables faster product cycles, and helps mix CPU, GPU, and AI accelerators in one platform.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Edge computing reduces latency for critical apps",
+      "body": "Edge computing runs workloads closer to users or devices instead of sending everything to distant cloud regions. It is valuable for gaming, industrial control, retail analytics, and real-time monitoring where milliseconds matter.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Zero trust security is becoming baseline architecture",
+      "body": "Zero trust treats every request as untrusted until verified by identity, device health, and policy checks. In 2026, this model is widely used to reduce lateral movement risk in cloud-first organizations.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Passkeys are replacing weak password flows",
+      "body": "Passkeys use device-bound cryptographic credentials to reduce phishing and credential theft. They improve security and also simplify sign-in, especially on mobile ecosystems with biometric unlock.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Software supply-chain security is a core engineering task",
+      "body": "Teams now monitor dependencies, signatures, and build provenance to reduce tampering risk. SBOMs, automated scanning, and stricter CI policies help prevent vulnerable code from reaching production.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "AI agents execute multi-step workflows",
+      "body": "AI agents can plan, call tools, and complete chained tasks with limited supervision. They are useful for support, research, and operations, but need strong permission boundaries, audit logs, and fallback paths.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "On-device AI improves privacy and responsiveness",
+      "body": "Phones and laptops increasingly run compact language and vision models locally. This lowers latency and keeps sensitive data on device for many everyday features.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Multimodal AI is becoming product standard",
+      "body": "Modern models combine text, image, and audio understanding in one pipeline. That allows users to ask about screenshots, speak commands, and get richer contextual responses without switching tools.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "RAG systems improve factual reliability",
+      "body": "Retrieval-augmented generation grounds model responses in trusted documents and citations. In production apps, retrieval quality and document hygiene often determine answer quality more than model size.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Model evaluation now runs continuously",
+      "body": "AI quality can drift with prompts, data, and usage patterns, so evaluation is ongoing rather than one-time. Teams track task success, latency, safety incidents, and user correction rates as release gates.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Vector search powers semantic experiences",
+      "body": "Embeddings and vector indexes let apps find conceptually similar content instead of exact keyword matches. This improves recommendations, support search, and question-answering systems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Cloud costs are shaped by inference and data movement",
+      "body": "In 2026, many cloud bills are driven by AI inference, storage tiers, and cross-region traffic. Efficient caching, model routing, and workload placement are major levers for profitability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Observability now includes AI traces",
+      "body": "Traditional logs are not enough for AI products. Teams capture prompts, retrieved context, model versions, and output quality signals so failures can be debugged quickly and safely.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Robotics is expanding beyond fixed factory cells",
+      "body": "Robots are moving into logistics, inspection, agriculture, and service operations. Better perception models and cheaper sensors make semi-structured environments more practical for automation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "5G and private wireless support industrial connectivity",
+      "body": "High-bandwidth, low-latency wireless networks help connect cameras, machines, and edge controllers across large sites. Private 5G deployments are used when reliability and coverage control are critical.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Satellite internet is closing remote connectivity gaps",
+      "body": "Low Earth orbit constellations now provide useful broadband in areas with weak terrestrial infrastructure. Performance varies by congestion and weather, but access has improved for many remote users.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Digital twins help teams test before deployment",
+      "body": "Digital twins simulate physical systems using live telemetry and models. They help predict failures, tune operations, and validate changes before applying them in the real world.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Battery technology progress is incremental but meaningful",
+      "body": "Most battery advances arrive through steady chemistry, packaging, and management improvements rather than one breakthrough. Better cycle life, charging safety, and thermal control still create major product impact.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Generative video is entering practical production",
+      "body": "Video generation tools are used for mockups, training clips, and rapid creative iteration. Human review is still essential for accuracy, consistency, rights, and brand safety.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Accessibility engineering is a product quality signal",
+      "body": "Voice control, captions, dynamic type, and assistive compatibility are now expected in mainstream apps. Accessibility improvements often increase usability for all users, not only those using assistive tech.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Privacy engineering influences adoption directly",
+      "body": "Clear consent flows, data minimization, and transparent retention policies improve user trust. In many markets, privacy posture now affects conversion and long-term engagement as much as features do.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Technology",
+      "title": "Responsible AI practice is now competitive strategy",
+      "body": "Companies that explain model limits, handle incidents quickly, and enforce clear safety policies earn stronger trust. In 2026, responsible AI is not separate from product strategy; it is part of product quality.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

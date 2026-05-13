@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Animals",
+      "title": "Bees and the Work of Pollination",
+      "body": "Bees are important pollinators for wild plants and crops. Many bee species exist besides honeybees. Pollen sticks to their bodies as they visit flowers.\n\nPollination helps plants produce seeds and fruit. Bee health matters for ecosystems and food systems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Elephants Remember Landscapes",
+      "body": "Elephants are the largest land animals alive today. They use trunks for feeding, touch, and communication. Family groups are led by experienced adults in many species. Elephants can travel far to find water and food.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Wolves as Social Hunters",
+      "body": "Wolves are highly social mammals that often live in family groups. Cooperation helps them hunt and defend territory. They communicate through scent, posture, and sound.\n\nWolves influence prey behavior and ecosystem balance. Their history with humans is long and complex.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Ants Build Organized Societies",
+      "body": "Ants live in colonies with division of labor. Workers, queens, and males have different roles. Ants use chemical signals to communicate. Some species farm fungi, herd insects, or build complex nests.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Penguins Adapted to Cold Seas",
+      "body": "Penguins are flightless birds adapted for swimming. Their wings function like flippers underwater. Dense feathers and body fat help retain warmth.\n\nMany penguin species breed in large colonies. They are excellent examples of bird adaptation to marine life.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Butterflies Begin as Caterpillars",
+      "body": "Butterflies undergo complete metamorphosis. A caterpillar stage is followed by a resting chrysalis and then the adult form. Adults often feed on nectar using a coiled proboscis.\n\nWing colors can help with camouflage or signaling. Their life cycle is one of nature’s most striking transformations.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Owls Hunt on Silent Wings",
+      "body": "Owls are birds of prey known for sharp senses. Special feather structure helps many owls fly quietly. Large forward-facing eyes aid depth perception.\n\nSome species rely heavily on sound to locate prey. Owls are active in varied habitats around the world.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Frogs Between Water and Land",
+      "body": "Frogs are amphibians that often begin life in water. Many hatch as tadpoles and later transform into adults. Their skin can help with water balance and gas exchange.\n\nFrogs are sensitive to environmental change. Their calls are important in breeding behavior.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Cheetahs Built for Speed",
+      "body": "Cheetahs are the fastest land animals over short distances. Their lightweight build and flexible spine aid rapid acceleration. They use long tails for balance during high-speed turns.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Camels and Desert Survival",
+      "body": "Camels are large mammals well adapted to dry environments. They can handle long periods with limited water. Fat stored in humps serves as an energy reserve rather than a water tank.\n\nWide feet help them move on sand. Their bodies reduce water loss efficiently.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Octopuses Escape with Intelligence",
+      "body": "Octopuses are among the most flexible and clever invertebrates. They can solve simple problems and open containers. Camouflage helps them avoid predators and ambush prey.\n\nA boneless body allows movement through narrow gaps. Short lives can still include rich behavior.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Bats Navigate with Sound",
+      "body": "Bats are the only mammals capable of sustained true flight. Many use echolocation to navigate and hunt in darkness. Bats play major roles in pollination, seed dispersal, and insect control. Different species eat fruit, nectar, insects, fish, or blood.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Giraffes Reach the Highest Leaves",
+      "body": "Giraffes are the tallest living land animals. Long necks help them browse leaves high above the ground. Their patterned coats vary between individuals and species.\n\nStrong hearts and special circulation help manage blood flow to the head. Giraffes show how body form evolves for feeding niche.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Dolphins Communicate in Pods",
+      "body": "Dolphins live in social groups and use complex sounds. They often cooperate while hunting. Echolocation helps them detect objects and prey.\n\nYoung dolphins learn by staying close to adults. Their intelligence and sociality are key to their success.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Sloths Move Slowly with Purpose",
+      "body": "Sloths are tree-dwelling mammals famous for slow movement. A slow lifestyle matches their low-energy diet of leaves. Strong curved claws help them hang securely.\n\nTheir fur can host tiny organisms that blend with forest life. Slowness can be a successful survival strategy.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Arctic Foxes Change with the Seasons",
+      "body": "Arctic foxes are adapted to cold polar environments. Their thick fur provides insulation. Coat color may change with the season in some populations. They feed opportunistically on small animals and leftovers.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Salmon Return to Their Birth Rivers",
+      "body": "Salmon are fish famous for migration between ocean and freshwater. Many are born in rivers, grow in the sea, and return to spawn. They use chemical and environmental cues to navigate.\n\nThis journey demands enormous energy. Salmon connect marine and river ecosystems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Chameleons and Color Change",
+      "body": "Chameleons are reptiles known for color change and specialized eyes. Color can reflect mood, temperature, and communication as well as camouflage. Their eyes can move somewhat independently. Many have grasping feet and tails for climbing.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Parrots as Skilled Vocal Learners",
+      "body": "Parrots are intelligent birds with strong curved beaks. Many species can imitate sounds, including human speech. Their feet are well suited for grasping food.\n\nParrots often live long lives and form social bonds. Habitat loss threatens several parrot species.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Seahorses and Gentle Currents",
+      "body": "Seahorses are fish with upright posture and grasping tails. They are poor long-distance swimmers and often anchor to plants. Their body armor is made of bony plates.\n\nIn many species the male carries developing young in a brood pouch. Seahorses show unusual body design among fish.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Tigers Move Like Striped Shadows",
+      "body": "Tigers are powerful big cats with striped coats. The stripes help break up their outline in vegetation. They are usually solitary hunters.\n\nStrong bodies allow them to take large prey. Conservation efforts are important for their future.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Orangutans of the Rainforest Canopy",
+      "body": "Orangutans are great apes that spend much time in trees. They are highly intelligent and use tools in some situations. Long arms help them move through forest canopies.\n\nYoung orangutans learn for years from their mothers. Forest loss threatens their survival.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Sea Otters Use Tools at the Surface",
+      "body": "Sea otters are marine mammals that often float on their backs. They use dense fur rather than a thick layer of blubber for insulation. Some sea otters use rocks to crack shellfish.\n\nBy eating sea urchins, they can help protect kelp forests. Their behavior makes them important coastal ecosystem players.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Peacocks and the Power of Display",
+      "body": "Male peafowl are famous for large colorful display feathers. These displays are used in courtship. Bright ornaments can signal condition and attract attention.\n\nPeafowl are ground-dwelling birds despite the dramatic tail train. Display behavior is a classic example in animal behavior studies.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Penguin Huddles and Shared Warmth",
+      "body": "Some penguins survive severe cold by huddling together. This behavior reduces heat loss for the group. Individuals may take turns in more exposed positions. Group living can therefore improve survival in harsh climates.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Octopuses Solve Problems Quickly",
+      "body": "Octopuses can open jars, navigate mazes, and remember solutions for future attempts. Their nervous system is unusual because a large part of it is distributed through their arms, allowing rapid local decisions while hunting or exploring. Because they rely on camouflage, touch, and flexible movement instead of speed, octopuses are often used as a clear example of how intelligence can evolve in very different body designs.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Whales Use Sound as a Map",
+      "body": "In deep ocean water, visibility is limited, so whales depend heavily on sound to communicate and sense distance. Low-frequency calls can travel very far, helping groups stay connected over long ranges. Changes in ocean noise from ships can interfere with these signals, which is why marine biologists track both whale populations and underwater soundscapes together.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Ravens Plan Ahead",
+      "body": "Ravens can solve multi-step tasks and sometimes store tools for future use. Their behavior suggests flexible planning, not just simple trial-and-error. In wild settings, this intelligence helps with food competition, social hierarchy, and adapting quickly to new environments.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Sharks Sense Electric Fields",
+      "body": "Some sharks detect tiny electrical signals produced by muscles and nerves of nearby animals. This ability helps them locate prey even in low visibility water. Specialized sensory organs around the snout make this possible, giving sharks an extra hunting channel beyond sight and smell.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Ant Colonies Share Jobs",
+      "body": "Ant colonies divide labor between foraging, nursing, nest repair, and defense. Roles can shift as the colony’s needs change. This flexible coordination is one reason ant societies remain efficient under changing weather, predators, and food availability.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Penguins Keep Eggs Warm",
+      "body": "In Antarctic winter, emperor penguins balance eggs on their feet under a skin fold to prevent freezing. They rotate positions in a huddle so each bird shares exposure to cold wind, an effective group survival strategy.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Bats Navigate with Echoes",
+      "body": "Many bats emit high-frequency sounds and read returning echoes to map distance, texture, and motion. Echolocation enables rapid nighttime flight through forests while detecting insects in real time.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Corvids Remember Faces",
+      "body": "Crows and related birds can remember human faces linked to threat or safety. They may also communicate this information socially, which helps groups avoid repeated danger.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Camels Store Fat, Not Water",
+      "body": "Camel humps store fat that can be metabolized for energy and water production. This adaptation supports long travel in dry regions where food and water are unpredictable.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Sea Otters Use Tools",
+      "body": "Sea otters often use stones to crack shellfish while floating on their backs. Reliable tool use reduces energy cost and expands the range of foods they can access.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Wolves Coordinate Hunts",
+      "body": "Wolves use social signals and role variation during hunts, with different individuals pushing, flanking, or blocking prey. Pack structure improves hunting success compared with solitary pursuit of large animals.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Frogs Absorb Through Skin",
+      "body": "Many frogs can absorb water directly through specialized skin regions instead of drinking frequently. Because their skin is permeable, habitat quality strongly affects survival and reproduction.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Elephant Herds Teach Young",
+      "body": "Younger elephants learn migration routes and social behavior by observing older matriarchs. This knowledge transfer improves herd decisions during drought, conflict, and seasonal movement.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Butterflies Navigate Long Distances",
+      "body": "Some butterfly species migrate thousands of kilometers using sun position and internal clocks. Generational migration can occur, where descendants continue a route started by earlier generations.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Dolphins Use Signature Calls",
+      "body": "Bottlenose dolphins produce distinct whistle patterns that function like individual identifiers. These calls help mothers, calves, and social partners maintain contact in dynamic ocean groups.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Owls Hunt with Asymmetric Ears",
+      "body": "Many owls have asymmetrical ear placement, improving vertical sound localization. That geometry helps them target hidden prey under leaves or snow even in darkness.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Jellyfish Move by Pulsing",
+      "body": "Jellyfish contract bell-shaped muscles to push water and move efficiently. Despite simple bodies, they survive through effective feeding, drifting, and reproductive strategies.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Beavers Engineer Wetlands",
+      "body": "Beaver dams slow water flow, create ponds, and increase habitat diversity. These changes can improve biodiversity while also reducing downstream flood peaks.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Parrots Learn Vocal Patterns",
+      "body": "Parrots can imitate complex sounds and associate them with social context. In enriched environments, some species show strong memory and problem-solving abilities.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Termites Regulate Temperature",
+      "body": "Termite mounds can maintain stable internal temperatures through ventilation design. Colony architecture demonstrates how simple local behavior can produce robust system-level control.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Seahorses Reverse Parenting",
+      "body": "Male seahorses carry developing embryos in a brood pouch until release. This rare reproductive pattern changes mating dynamics and parental investment balance.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Arctic Foxes Shift Coat Color",
+      "body": "Arctic foxes molt between white winter coats and darker summer coats for camouflage. Seasonal color shifts reduce predation risk and improve hunting success across snow cycles.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Orcas Learn Culture",
+      "body": "Different orca groups use distinct hunting techniques and vocal traditions. These cultural differences can persist across generations, shaping diet and social behavior.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Snakes Sense Heat",
+      "body": "Pit vipers detect infrared radiation from warm animals using specialized facial pits. This heat sensing supports accurate strikes in low light and dense cover.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Animals",
+      "title": "Hummingbirds Hover Precisely",
+      "body": "Hummingbirds rotate their wings in ways that generate lift on both strokes. That wing control enables stable hovering while feeding from flowers and adjusting quickly to gusts.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

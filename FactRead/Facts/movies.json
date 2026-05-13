@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Movies",
+      "title": "Movies Are Stories in Motion",
+      "body": "Movies combine moving images, sound, performance, and editing. They tell stories or present ideas through time. Film language includes camera angle, lighting, music, and pacing.\n\nEven simple scenes can feel very different depending on these choices. Cinema is both an art form and a technology.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "The Camera Decides What We Notice",
+      "body": "Camera position shapes how viewers understand a scene. A close-up can highlight emotion while a wide shot reveals setting. Movement can create energy or tension.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Editing Creates Rhythm and Meaning",
+      "body": "Editing joins separate shots into a continuous experience. The cut can speed up action or slow down emotion. Order matters because viewers connect images into meaning.\n\nSmooth editing can feel invisible while bold editing can call attention to itself. The final pace of a movie is largely built in the edit.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Sound Design Makes Worlds Feel Real",
+      "body": "Movie sound includes dialogue, music, ambience, and effects. A good soundtrack makes scenes feel larger than the screen. Sound can suggest off-screen action and mood. Silence can be powerful too.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Music Shapes Emotional Tone",
+      "body": "Film music can build suspense, wonder, sadness, or excitement. Themes can be linked to characters or places. A single melody can make a scene feel memorable.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Animation Gives Life to Drawings",
+      "body": "Animation creates motion from still images shown in sequence. It can be hand-drawn, stop-motion, or computer-generated. Because every frame is crafted, animated worlds can follow their own rules.\n\nAnimation is not only for children. It is a flexible way to tell many kinds of stories.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Documentaries Observe the Real World",
+      "body": "Documentaries present real subjects, events, or people. They may use interviews, archives, or direct observation. Even nonfiction films involve choices about framing and structure.\n\nA documentary can inform, persuade, or provoke reflection. Truthful storytelling still requires careful editing and context.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Comedy Depends on Timing",
+      "body": "Comedy in movies depends heavily on timing, surprise, and perspective. A pause or reaction shot can change a joke completely. Physical comedy uses movement and space as much as words.\n\nDifferent cultures enjoy different styles of humor. Good comedy often hides great technical precision.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Drama Builds Emotion Through Character",
+      "body": "Drama focuses on conflict, emotion, and human choices. Character development is often central. Small expressions and quiet scenes can carry major weight.\n\nViewers care more when the characters feel believable. Drama often stays with people because it mirrors real struggles.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Action Movies Turn Motion into Spectacle",
+      "body": "Action films use movement, stunts, danger, and pace to create excitement. Clear visual storytelling helps viewers follow fast events. Choreography matters in fights and chases.\n\nSound and editing add impact to every moment. The best action scenes are exciting because they are easy to read.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Science Fiction Imagines Other Possibilities",
+      "body": "Science fiction uses imagined technology or futures to explore ideas. It can ask questions about humanity, ethics, or discovery. Some stories stay close to known science while others use broad speculation.\n\nVisual design helps make unfamiliar worlds believable. The genre often reflects hopes and fears of its time.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Fantasy Builds Worlds Beyond Rules",
+      "body": "Fantasy movies create worlds where magic or mythical elements are real. Consistency still matters even in impossible settings. Costume, design, and music help define the world’s tone. Fantasy often uses quests and symbolic conflict.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Horror Uses Fear and Uncertainty",
+      "body": "Horror films are designed to create fear, dread, or unease. What is hidden can be more powerful than what is shown. Lighting and sound are especially important in horror. Some horror depends on shock while other films build slow tension.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Screenwriting Gives Structure to Film",
+      "body": "A screenplay provides the blueprint for a movie. It includes scenes, dialogue, and action descriptions. Strong structure helps events feel connected and purposeful.\n\nCharacters need goals, obstacles, and change. Although films evolve in production, good writing gives them a clear foundation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Directors Shape the Final Vision",
+      "body": "A director guides performance, visual style, pacing, and tone. Many creative choices flow through this role. Directors work closely with writers, actors, designers, and editors.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Actors Bring Characters to Life",
+      "body": "Actors use voice, movement, timing, and expression to create believable people. Great acting often looks effortless even when highly controlled. Performance must fit the style of the film. Reaction can matter as much as dialogue.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Production Design Builds Believable Worlds",
+      "body": "Production design includes sets, props, and the visual environment of a film. These details help reveal place, period, and mood. A room can tell a story before a character speaks.\n\nDesign supports realism or stylization depending on the goal. Visual worlds feel convincing when many departments work together.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Costumes Tell Silent Character Stories",
+      "body": "Costumes can reveal class, profession, personality, and change. Color and texture influence mood on screen. Historical films often depend on costume detail for believability.\n\nCostumes must also support movement and performance. Good costume design communicates quietly but clearly.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Special Effects Expand the Possible",
+      "body": "Special effects create events or images that would be difficult to film directly. Practical effects happen physically on set. Digital effects are added or altered with computers. The strongest effects serve story rather than distract from it.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Color Changes the Feeling of a Scene",
+      "body": "Color strongly affects mood and emphasis in cinema. Warm tones can feel intimate or intense while cool tones may feel distant or calm. Filmmakers use color to guide attention and symbolism.\n\nColor grading can unify the look of a film. Viewers feel these choices even when they do not consciously analyze them.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Film Genres Help Set Expectations",
+      "body": "Genres group movies by common patterns such as tone, subject, and structure. A genre helps audiences know what kind of experience to expect. Many films mix multiple genres.\n\nFresh movies often work by bending genre rules. Genres are useful guides, not strict boxes.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Movie Franchises Build Familiar Worlds",
+      "body": "A movie franchise extends a story world across multiple films. Recurring characters and settings create familiarity. Franchises can deepen a world or repeat it too safely.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Silent Films Spoke Without Dialogue",
+      "body": "Early silent films relied on visuals, intertitles, music, and performance. Actors used expressive movement to communicate clearly. Cinematography and editing developed rapidly in this era.\n\nSilent cinema was never truly silent because music often accompanied screenings. Its influence still shapes modern filmmaking.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "The Audience Completes the Experience",
+      "body": "A movie is finished technically in the studio but completed emotionally by the audience. Viewers bring memory, culture, and feeling to what they watch. The same film can mean different things to different people.\n\nShared viewing can change laughter, suspense, and emotion. Cinema is therefore both a made object and a social experience.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Movies Reflect the Times That Make Them",
+      "body": "Movies are shaped by the values, fears, hopes, and technology of their era. They can preserve fashion, speech, and social attitudes. Some films challenge the culture around them while others reinforce it.\n\nWatching older films can reveal how societies change. Cinema is one of the clearest mirrors of collective imagination.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Editing Creates Time",
+      "body": "Film editing can compress hours into seconds or stretch a moment into suspense. The order of shots controls what viewers feel and when they feel it. A strong edit does more than connect scenes; it shapes rhythm, reveals information at the right moment, and guides emotional payoff.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Sound Design Carries Emotion",
+      "body": "Many memorable movie moments are driven by sound layers: ambience, foley, score, and silence. Even subtle changes in reverb or volume can make a scene feel intimate, tense, or epic. Great sound design often goes unnoticed because it supports the story so naturally that viewers focus on emotion rather than technique.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Storyboarding",
+      "body": "Storyboarding explains a key idea in this category in a direct, practical way. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Color grading",
+      "body": "Color grading is easier to understand when viewed as a real system, not just a definition. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Lighting contrast",
+      "body": "Lighting contrast is a useful concept because small changes can produce clear real-world effects. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Blocking actors",
+      "body": "Blocking actors gives readers a concrete entry point into a bigger topic. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Shot composition",
+      "body": "Shot composition explains a key idea in this category in a direct, practical way. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Lens perspective",
+      "body": "Lens perspective is easier to understand when viewed as a real system, not just a definition. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Montage pacing",
+      "body": "Montage pacing is a useful concept because small changes can produce clear real-world effects. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Practical effects",
+      "body": "Practical effects gives readers a concrete entry point into a bigger topic. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "CG integration",
+      "body": "CG integration explains a key idea in this category in a direct, practical way. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Foley craft",
+      "body": "Foley craft is easier to understand when viewed as a real system, not just a definition. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Score motifs",
+      "body": "Score motifs is a useful concept because small changes can produce clear real-world effects. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Silence in cinema",
+      "body": "Silence in cinema gives readers a concrete entry point into a bigger topic. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Production design",
+      "body": "Production design explains a key idea in this category in a direct, practical way. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Costume signaling",
+      "body": "Costume signaling is easier to understand when viewed as a real system, not just a definition. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Genre conventions",
+      "body": "Genre conventions is a useful concept because small changes can produce clear real-world effects. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Narrative framing",
+      "body": "Narrative framing gives readers a concrete entry point into a bigger topic. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Opening scenes",
+      "body": "Opening scenes explains a key idea in this category in a direct, practical way. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Ending payoff",
+      "body": "Ending payoff is easier to understand when viewed as a real system, not just a definition. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Character arcs",
+      "body": "Character arcs is a useful concept because small changes can produce clear real-world effects. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Visual metaphors",
+      "body": "Visual metaphors gives readers a concrete entry point into a bigger topic. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Continuity editing",
+      "body": "Continuity editing explains a key idea in this category in a direct, practical way. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Documentary ethics",
+      "body": "Documentary ethics is easier to understand when viewed as a real system, not just a definition. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Movies",
+      "title": "Voice-over use",
+      "body": "Voice-over use is a useful concept because small changes can produce clear real-world effects. Film meaning comes from the combination of framing, editing, sound, pacing, and performance choices. Recognizing those choices makes scenes easier to read and appreciate at a deeper level.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

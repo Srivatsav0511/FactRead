@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Ocean",
+      "title": "The Ocean Covers Most of Earth",
+      "body": "The ocean covers most of Earth’s surface. It stores heat, moves water, and influences climate. Although connected, it is divided into named ocean basins.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Waves Carry Energy Across Water",
+      "body": "Ocean waves mostly carry energy rather than moving the whole sea forward. Wind is a common cause of surface waves. Wave size depends on wind strength, duration, and distance.\n\nWaves change shape as they reach shallow water. They shape coasts over long periods.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Tides Follow the Pull of Gravity",
+      "body": "Tides are regular rises and falls in sea level. The Moon’s gravity is the main cause, with the Sun also contributing. Local coast shape can make tides stronger or weaker. Tides affect ports, beaches, and marine life.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Ocean Currents Move Heat Around the Globe",
+      "body": "Ocean currents move water across great distances. Some are driven mainly by wind while others depend on temperature and salinity. Currents help move heat around the planet.\n\nThey influence weather, fisheries, and sea travel. Changes in currents can affect entire regions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Coral Reefs Brighten Warm Seas",
+      "body": "Coral reefs thrive in clear shallow tropical water. Corals build hard skeletons that create habitat. Many reef fish, invertebrates, and algae depend on this structure.\n\nReefs protect some coastlines from wave energy. They are among the most diverse marine ecosystems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Kelp Forests Rise Underwater",
+      "body": "Kelp forests are underwater habitats formed by large brown algae. They grow best in cool nutrient-rich coastal waters. Kelp can grow very quickly under good conditions.\n\nThese forests shelter fish, sea otters, and many invertebrates. They are the marine equivalent of towering plant habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "The Continental Shelf Supports Rich Life",
+      "body": "The continental shelf is the shallow submerged edge of a continent. Sunlight reaches much of it, helping productive food webs grow. Many fisheries and coastal ecosystems are found there.\n\nShelves were often exposed during lower sea levels in the past. Their gentle depth makes them important for both nature and people.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Deep Sea Trenches and Extreme Depth",
+      "body": "Ocean trenches are long deep depressions in the seafloor. They form mostly where tectonic plates converge. Pressure there is enormous.\n\nDespite harsh conditions, life still exists in these depths. Trenches reveal how dynamic the seafloor can be.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Hydrothermal Vents Without Sunlight",
+      "body": "Hydrothermal vents release heated mineral-rich water from the seafloor. They are often found near tectonic boundaries. Some vent communities rely on chemosynthesis instead of sunlight. Tubeworms, clams, and microbes can thrive there.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Plankton Feed the Sea",
+      "body": "Plankton are drifting organisms that cannot swim strongly against currents. Phytoplankton use sunlight to make food. Zooplankton eat other plankton or organic material.\n\nThese small organisms support many marine food webs. Even very large animals depend indirectly on plankton productivity.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Whales Rule the Marine Giants",
+      "body": "Whales are marine mammals that breathe air and nurse their young. Some whales filter tiny prey, while others hunt larger animals. They migrate across vast ocean distances.\n\nWhales communicate with sound and depend on healthy seas. Their size and behavior make them key ocean icons.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Dolphins and Social Intelligence",
+      "body": "Dolphins are intelligent marine mammals known for social behavior. They use sound for communication and echolocation. Many species live in groups that cooperate.\n\nDolphins are powerful swimmers and skilled hunters. Their behavior has made them important in marine research.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Sharks Older Than Dinosaurs",
+      "body": "Sharks are cartilaginous fish with long evolutionary histories. Different shark species occupy many marine roles. Their senses can be highly tuned to movement and chemistry. Most sharks are not dangerous to humans.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Sea Turtles Cross Entire Oceans",
+      "body": "Sea turtles are reptiles adapted to marine life. They breathe air but spend most of their time in water. Different species feed on seagrass, jellyfish, or other prey.\n\nMany return to nest on sandy beaches. Their long migrations link distant habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Octopuses Show Flexible Intelligence",
+      "body": "Octopuses are soft-bodied cephalopods with eight arms. They are known for problem-solving and remarkable flexibility. An octopus can change color and texture for camouflage.\n\nIts arms are lined with sensitive suckers. These animals are both hunters and masters of escape.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Jellyfish Drift with Grace",
+      "body": "Jellyfish are simple-looking animals with soft bodies and trailing tentacles. Many move mainly by pulsing and drifting. Some use stinging cells to capture prey or defend themselves. Jellyfish blooms can expand under favorable conditions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "The Seafloor Records Earth’s History",
+      "body": "The seafloor contains mountains, plains, ridges, and trenches. New crust forms at mid-ocean ridges and older crust is recycled elsewhere. Sediments accumulate over long timescales.\n\nBy studying the seafloor, scientists learn about plate motion and climate history. It is far more varied than a flat map suggests.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Salinity Gives the Sea Its Character",
+      "body": "Salinity measures the amount of dissolved salts in seawater. The average ocean is salty, but levels vary by place. Evaporation, rainfall, river input, and ice affect salinity.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "The Blue Ocean Stores Heat",
+      "body": "The ocean stores vast amounts of solar heat. Because water warms and cools more slowly than land, oceans help moderate climate. Warm surface waters and cold deep waters interact in complex ways.\n\nHeat content affects storms, currents, and marine life. Ocean warming is an important part of climate science.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Sea Ice and Polar Waters",
+      "body": "Sea ice forms when ocean water freezes near polar regions. Unlike icebergs, sea ice forms directly from the sea. It changes with seasons and affects light reflection.\n\nSea ice creates habitat for specialized organisms. Its extent influences climate and polar food webs.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Mangroves and Seagrasses of the Coast",
+      "body": "Coastal marine plants such as seagrasses and mangroves support young fish and trap sediment. Seagrasses are flowering plants fully adapted to underwater life. Both habitats improve water quality in many places.\n\nThey also store carbon in coastal soils. Healthy coastal plants protect shorelines and biodiversity.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Bioluminescence in the Dark Sea",
+      "body": "Bioluminescence is light produced by living organisms. Many marine species use it for hunting, defense, or communication. The deep ocean contains many glowing creatures.\n\nChemical reactions inside the body create the light. This ability is especially useful where sunlight does not reach.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Upwelling Feeds Productive Waters",
+      "body": "Upwelling happens when deeper nutrient-rich water rises toward the surface. Winds and currents can drive this process. Nutrients fuel plankton growth and rich food webs.\n\nMany productive fisheries are linked to upwelling zones. A hidden vertical movement can therefore shape whole coastal economies.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "The Ocean and the Carbon Cycle",
+      "body": "The ocean absorbs and stores large amounts of carbon. Some carbon stays near the surface while some sinks deeper. Plankton, chemistry, and circulation all affect this storage. The ocean therefore plays a major role in climate regulation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Exploring the Sea Still Has Frontiers",
+      "body": "Much of the ocean remains less explored than the land surface. Depth, pressure, darkness, and scale make study difficult. Submersibles, sonar, and remote vehicles help scientists observe the deep.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Coral Reefs Are Biodiversity Hotspots",
+      "body": "Coral reefs cover a small part of the ocean floor but support a large share of marine species. Their complex structure provides shelter, breeding grounds, and feeding routes for fish and invertebrates. Because corals are sensitive to temperature and water chemistry, reef health is a strong indicator of broader ocean stress.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Currents Move Global Heat",
+      "body": "Ocean currents transfer heat from equatorial regions toward higher latitudes, shaping climate patterns over long timescales. This circulation affects rainfall, fisheries, and storm behavior. Small shifts in these flows can cascade into major regional changes, which is why ocean monitoring is central to climate forecasting.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Thermocline layers",
+      "body": "Thermocline layers explains a key idea in this category in a direct, practical way. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Upwelling zones",
+      "body": "Upwelling zones is easier to understand when viewed as a real system, not just a definition. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Plankton blooms",
+      "body": "Plankton blooms is a useful concept because small changes can produce clear real-world effects. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Deep-sea vents",
+      "body": "Deep-sea vents gives readers a concrete entry point into a bigger topic. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Salinity gradients",
+      "body": "Salinity gradients explains a key idea in this category in a direct, practical way. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Tidal energy",
+      "body": "Tidal energy is easier to understand when viewed as a real system, not just a definition. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Kelp forests",
+      "body": "Kelp forests is a useful concept because small changes can produce clear real-world effects. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Seamount habitats",
+      "body": "Seamount habitats gives readers a concrete entry point into a bigger topic. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Nekton migration",
+      "body": "Nekton migration explains a key idea in this category in a direct, practical way. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Pelagic food webs",
+      "body": "Pelagic food webs is easier to understand when viewed as a real system, not just a definition. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Estuary mixing",
+      "body": "Estuary mixing is a useful concept because small changes can produce clear real-world effects. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Coastal dead zones",
+      "body": "Coastal dead zones gives readers a concrete entry point into a bigger topic. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Ocean acidification",
+      "body": "Ocean acidification explains a key idea in this category in a direct, practical way. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Sea ice dynamics",
+      "body": "Sea ice dynamics is easier to understand when viewed as a real system, not just a definition. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Marine protected areas",
+      "body": "Marine protected areas is a useful concept because small changes can produce clear real-world effects. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Bycatch reduction",
+      "body": "Bycatch reduction gives readers a concrete entry point into a bigger topic. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Nursery grounds",
+      "body": "Nursery grounds explains a key idea in this category in a direct, practical way. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Blue carbon",
+      "body": "Blue carbon is easier to understand when viewed as a real system, not just a definition. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Wave refraction",
+      "body": "Wave refraction is a useful concept because small changes can produce clear real-world effects. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Current gyres",
+      "body": "Current gyres gives readers a concrete entry point into a bigger topic. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Storm surge",
+      "body": "Storm surge explains a key idea in this category in a direct, practical way. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Abyssal plains",
+      "body": "Abyssal plains is easier to understand when viewed as a real system, not just a definition. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Ocean",
+      "title": "Bathymetry mapping",
+      "body": "Bathymetry mapping is a useful concept because small changes can produce clear real-world effects. Ocean behavior is driven by depth, temperature, salinity, and moving currents that redistribute heat and nutrients. That is why marine changes in one region can influence fisheries, weather, and coastal life elsewhere.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}

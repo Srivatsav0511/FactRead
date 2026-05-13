@@ -1,0 +1,454 @@
+{
+  "facts": [
+    {
+      "category": "Nature",
+      "title": "Forests as Living Networks",
+      "body": "Forests are ecosystems dominated by trees and layered plant life. They store carbon, cycle water, and support huge biodiversity. Different forest types grow in tropical, temperate, and boreal regions. Fungi and roots help connect nutrient flows in soil.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Deserts Hold More Life Than They Seem",
+      "body": "Deserts are defined by low rainfall rather than just heat. Some deserts are hot while others are cold. Plants and animals there conserve water in specialized ways.\n\nMany desert species are active at night to avoid daytime heat. Deserts can bloom quickly after rain.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Rainforests and Rich Biodiversity",
+      "body": "Rainforests grow where warmth and moisture support dense vegetation. They contain an enormous share of Earth’s species. Tall canopies create layers with different light conditions.\n\nNutrients often cycle rapidly through living material. Rainforests influence rainfall and climate beyond their borders.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Mountains Shape Weather and Rivers",
+      "body": "Mountains rise when Earth’s crust is pushed upward or volcanic activity builds land. They affect weather by forcing air to rise and cool. Many major rivers begin in mountain regions.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Rivers Carve the Land",
+      "body": "Rivers move fresh water from high ground to lakes and seas. They erode rock, carry sediment, and shape valleys. Floodplains beside rivers are often fertile.\n\nRiver systems connect forests, farms, cities, and wetlands. Seasonal flow changes can transform habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 5,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Wetlands Filter and Protect",
+      "body": "Wetlands include marshes, swamps, and bogs where water strongly shapes life. They filter pollutants and trap sediment. Wetlands reduce flooding by holding and slowly releasing water.\n\nMany birds, fish, and amphibians depend on them. Though often overlooked, they are among the most productive ecosystems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Grasslands Feed Great Herds",
+      "body": "Grasslands are open ecosystems where grasses dominate. They usually form where rainfall is enough for plants but not dense forests. Large grazing animals thrive there in many parts of the world.\n\nPeriodic fire and grazing help maintain grassland balance. These regions are important for soil storage and farming.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Coral Reefs Built by Tiny Animals",
+      "body": "Coral reefs are formed by colonies of tiny animals called coral polyps. Many reef-building corals live with algae that provide food through photosynthesis. Reefs support exceptionally rich marine life.\n\nClear warm shallow water often favors reef growth. Though they cover little ocean area, reefs shelter many species.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Mangroves Between Land and Sea",
+      "body": "Mangroves are salt-tolerant trees that grow along tropical coasts. Their roots trap sediment and reduce shoreline erosion. Mangrove forests provide nursery habitat for many young fish. They can tolerate changing tides and salty mud.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 9,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Volcanoes Build New Landscapes",
+      "body": "Volcanoes form where molten rock reaches the surface. They can build islands, mountains, and fertile soils over time. Eruptions vary from gentle lava flows to explosive ash clouds.\n\nVolcanic gases influence local air and chemistry. Volcanic regions reveal heat from deep inside Earth.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 10,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Earthquakes and Moving Plates",
+      "body": "Earthquakes happen when stress in Earth’s crust is suddenly released. They are common near faults and plate boundaries. Seismic waves spread through the ground and can be measured by instruments.\n\nLarge quakes can reshape landscapes and coastlines. Studying them helps scientists understand Earth’s interior.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 11,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Glaciers as Slow Rivers of Ice",
+      "body": "Glaciers form where snow accumulates and compacts over long periods. They flow slowly under their own weight. Glaciers carve valleys, transport rock, and shape mountains.\n\nThey store fresh water and influence sea level. As climate changes, many glaciers are retreating.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 12,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Clouds in Motion Above Us",
+      "body": "Clouds form when water vapor cools and condenses around tiny particles. Different cloud types signal different conditions in the atmosphere. Some clouds bring rain while others suggest fair weather.\n\nClouds affect how much sunlight reaches the surface. They are part of the constant movement of water through the air.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 13,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "The Water Cycle Never Stops",
+      "body": "The water cycle moves water through evaporation, condensation, precipitation, and runoff. Sunlight powers much of this movement. Water can spend time in oceans, clouds, ice, rivers, soil, and living things.\n\nThe cycle helps distribute heat and fresh water. It links weather, climate, and ecosystems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 14,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Soil More Alive Than It Looks",
+      "body": "Soil is a mixture of minerals, organic matter, air, water, and living organisms. It forms slowly from weathered rock and decayed material. Healthy soil supports plants by holding nutrients and moisture.\n\nMicrobes and small animals inside soil help break down matter. Soil loss can take place much faster than soil formation.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 15,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Seeds and the Start of Plant Life",
+      "body": "Seeds contain a young plant and stored food. A protective outer coat helps them survive tough conditions. Many seeds wait for the right mix of water, temperature, and oxygen to sprout.\n\nAnimals, wind, and water can spread seeds to new places. Seed plants became very successful on land.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 16,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Pollination Helps Plants Reproduce",
+      "body": "Pollination is the movement of pollen from one flower part to another. It allows many plants to produce seeds and fruits. Bees, butterflies, birds, bats, wind, and water can all carry pollen. Flowers often evolve colors, scents, or shapes that attract specific partners.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 17,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "The Seasons of Temperate Lands",
+      "body": "Seasons occur because Earth’s axis is tilted as the planet orbits the Sun. That tilt changes the angle and length of sunlight through the year. Many plants and animals time growth, migration, and breeding to seasonal patterns.\n\nTemperate regions show strong changes in temperature and daylight. Seasonal cycles help organize life in many ecosystems.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 18,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Lightning in the Atmosphere",
+      "body": "Lightning is a giant electrical discharge in the atmosphere. It often forms inside storm clouds where charges separate. The flash heats air rapidly, and thunder follows as the air expands.\n\nLightning can start fires but also helps nitrogen enter natural cycles. Storm electricity shows the power of moving air and water.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 19,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "The Beauty of Snowflakes",
+      "body": "Snowflakes form when water vapor freezes into ice crystals in clouds. Their shapes depend on temperature and humidity during growth. Six-sided symmetry comes from the structure of ice.\n\nMany crystals join and branch into intricate forms. Snow influences climate by reflecting sunlight and storing water.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 20,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Caves Underground Worlds",
+      "body": "Caves often form when water slowly dissolves rock such as limestone. Some are carved by lava, sea action, or erosion. Caves can contain stalactites and stalagmites built by dripping mineral-rich water.\n\nThey preserve fossils, climate records, and traces of ancient people. Life in caves often adapts to darkness and limited food.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 21,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Dunes Moved by Wind",
+      "body": "Sand dunes form where loose sand is moved and piled by wind. They can appear in deserts, on coasts, and near dry lakebeds. Dunes shift shape over time as winds change. Plants can help stabilize dunes by trapping sand with roots.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 22,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Islands Born of Fire and Sea",
+      "body": "Islands form in several ways including volcanic growth, coral buildup, and pieces of continental crust. Isolation often allows unique species to evolve. Some islands are rising while others slowly erode.\n\nOcean currents and storms strongly influence island life. Island ecosystems can be rich but also fragile.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 23,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Migration Across the Planet",
+      "body": "Migration is the regular movement of animals from one place to another. It often follows changing seasons, food supply, or breeding needs. Birds, fish, insects, and mammals all migrate in different ways.\n\nMany species use stars, the Sun, Earth’s magnetic field, or landmarks to navigate. Migration connects distant habitats into one larger ecological story.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 24,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Biodiversity Keeps Ecosystems Strong",
+      "body": "Biodiversity includes the variety of genes, species, and ecosystems in nature. High biodiversity can make ecosystems more stable and resilient. Different species perform different jobs such as pollination, decomposition, and predation.\n\nLoss of biodiversity can weaken natural systems. Protecting variety helps secure both wild life and human well-being.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 25,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Wetlands Filter Water Naturally",
+      "body": "Wetlands trap sediment and help break down pollutants, acting like natural filtration systems. They also store floodwater and release it gradually, reducing downstream damage during heavy rain. Protecting wetlands is often cheaper and more resilient than replacing those ecosystem services with engineered systems alone.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 26,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Soil Is an Ecosystem",
+      "body": "Healthy soil contains bacteria, fungi, insects, roots, water, and air in dynamic balance. This living structure supports plant growth, stores carbon, and influences water retention. When soil is degraded, crop resilience drops quickly, which is why modern agriculture increasingly focuses on soil restoration as a core strategy.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 27,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "River deltas",
+      "body": "River deltas explains a key idea in this category in a direct, practical way. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 28,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Mangrove buffers",
+      "body": "Mangrove buffers is easier to understand when viewed as a real system, not just a definition. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 29,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Forest succession",
+      "body": "Forest succession is a useful concept because small changes can produce clear real-world effects. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 30,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Pollinator webs",
+      "body": "Pollinator webs gives readers a concrete entry point into a bigger topic. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 31,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Keystone species",
+      "body": "Keystone species explains a key idea in this category in a direct, practical way. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 32,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Fire ecology",
+      "body": "Fire ecology is easier to understand when viewed as a real system, not just a definition. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 33,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Mountain weather",
+      "body": "Mountain weather is a useful concept because small changes can produce clear real-world effects. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 34,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Glacier melt",
+      "body": "Glacier melt gives readers a concrete entry point into a bigger topic. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 35,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Grassland resilience",
+      "body": "Grassland resilience explains a key idea in this category in a direct, practical way. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 36,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Monsoon cycles",
+      "body": "Monsoon cycles is easier to understand when viewed as a real system, not just a definition. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 37,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Drought adaptation",
+      "body": "Drought adaptation is a useful concept because small changes can produce clear real-world effects. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 38,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Seed dispersal",
+      "body": "Seed dispersal gives readers a concrete entry point into a bigger topic. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 39,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Canopy layers",
+      "body": "Canopy layers explains a key idea in this category in a direct, practical way. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 40,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Coastal erosion",
+      "body": "Coastal erosion is easier to understand when viewed as a real system, not just a definition. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 41,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Alpine ecosystems",
+      "body": "Alpine ecosystems is a useful concept because small changes can produce clear real-world effects. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 42,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Peatland carbon",
+      "body": "Peatland carbon gives readers a concrete entry point into a bigger topic. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 43,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Tidal flats",
+      "body": "Tidal flats explains a key idea in this category in a direct, practical way. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 44,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Freshwater springs",
+      "body": "Freshwater springs is easier to understand when viewed as a real system, not just a definition. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 45,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Wet season pulses",
+      "body": "Wet season pulses is a useful concept because small changes can produce clear real-world effects. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 46,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Biodiversity corridors",
+      "body": "Biodiversity corridors gives readers a concrete entry point into a bigger topic. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 47,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Habitat fragmentation",
+      "body": "Habitat fragmentation explains a key idea in this category in a direct, practical way. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales. In practice, this idea becomes clearer when compared across different real examples.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 48,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Soil moisture",
+      "body": "Soil moisture is easier to understand when viewed as a real system, not just a definition. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 49,
+      "isActive": true
+    },
+    {
+      "category": "Nature",
+      "title": "Food chains",
+      "body": "Food chains is a useful concept because small changes can produce clear real-world effects. Natural systems are connected, so shifts in water, climate, or species often ripple through entire habitats. Seeing those links helps people understand why ecosystem balance matters over long time scales.",
+      "language_code": "en",
+      "languageCode": "en",
+      "order": 50,
+      "isActive": true
+    }
+  ]
+}
